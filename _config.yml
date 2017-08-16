@@ -82,15 +82,15 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D student of Information Science"
   location         : "Bloomington, Indiana, USA"
-  employer         :
+  employer         :  
   googlescholar    : "https://scholar.google.com/citations?user=C8M7-1YAAAAJ&hl=en"
   email            : "gao27@indiana.edu"
-  cv               : "files/paper1.pdf"
-  bitbucket        :  
+  uri              :
+  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :  "zhengzheng"
+  facebook         :
   foursquare       :
   github           : "RoyZhengGao"
   google_plus      :
