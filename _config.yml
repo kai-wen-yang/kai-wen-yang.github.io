@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Zheng Gao (高正)"
-  avatar           : "profile.png"
-  bio              : "Ph.D student of Information Science, School of Informatics and Computing, Indiana University Bloomington"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D student of Information Science"
   location         : "Bloomington, Indiana, USA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=C8M7-1YAAAAJ&hl=en"
   email            : "gao27@indiana.edu"
   uri              :
   bitbucket        :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/RoyZhengGao"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :  
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
