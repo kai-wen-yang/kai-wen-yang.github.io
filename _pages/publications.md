@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Self Introduction"
-permalink: /home/
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /resume
