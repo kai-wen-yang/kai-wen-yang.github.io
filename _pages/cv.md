@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About Me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,29 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 
+I am a third year Ph.D student of Information Science at School of Informatics and Computing, Indiana University Bloomington. My advisor is Dr. [Xiaozhong Liu](http://scholarwiki.indiana.edu/homepage/index.html). I am interested in information retrieval, data mining, machine learning and complex network. Currently, I am trying to solve personalized community detection and real time recommendation tasks on scholarly data and social media data, which is related to both text mining and graph mining. For more details, please see my CV [here](files/cv.pdf).
