@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Conference
+Conference 林墨
 ======
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014

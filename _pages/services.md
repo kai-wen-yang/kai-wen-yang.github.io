@@ -16,4 +16,4 @@ Academic
 
 Administrative
 ======
-* Chair of Doctorate Student Association, 2016 - now
+* Chair of Doctoral Student Association, 2016 - now
