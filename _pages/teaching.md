@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -9,30 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+2017 
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Summer 2017
+  * Associate instructor of Data Science Online Program (Data Onramp)
 
-Work experience
+* Spring 2017
+  * Associate instructor of Data Science Online Program (Data Onramp)
+  * Associate instructor of Web Programming (Z517)
+
+2016
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2016:  
+  * Associate instructor of Data Science Online Program (Data Onramp)
+  * Associate instructor of Search (Z534)
+  * Guest lecturer of Introduction to Information Studies (Z510)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016:  
+  * Associate instructor of Data Science Online Program (Data Onramp)
+
+* Spring 2016:
+  * Associate instructor of Big Data Analytics for Web and Text (Z604)
+  * Guest lecturer of Introduction to Information Studies (Z510)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
- 
+2015
+====== 
+* Fall 2015
+  * Associate instructor of Search (Z534)
