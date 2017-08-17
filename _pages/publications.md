@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Self Introduction"
+title: ""
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Conference
 ======
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
-Work experience
+Workshop
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Poster
 ======
 * Skill 1
 * Skill 2

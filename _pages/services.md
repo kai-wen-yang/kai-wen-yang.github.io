@@ -11,8 +11,8 @@ redirect_from:
 
 Academic
 ======
-* volunteer at NetSci (International School and Conference on Network Science), 2017
-* volunteer at ODI (Open Data and Innovation Symposium), 2017
+* Volunteer at NetSci (International School and Conference on Network Science), 2017
+* Volunteer at ODI (Open Data and Innovation Symposium), 2017
 
 Administrative
 ======
