@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "About Me"
-permalink: /home/
+permalink: /about/
 author_profile: true
 redirect_from:
   - /resume
