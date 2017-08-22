@@ -40,3 +40,4 @@ Poster
 Newspaper and/or Online Accessible Essays
 ======
 * **Zheng Gao**, representing Lin Mo (林墨) Group. (2017). [Entitymetrics: Where is knowledge from](https://zhuanlan.zhihu.com/p/28374447).
+* **Zheng Gao**, representing Lin Mo (林墨) Group. (2017). [It is never easy to get funded for young scientists]().
