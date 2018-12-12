@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Industry
+======
+* 03/2018 - 03/2019 Alibaba DAMO Academy, Research intern
 
 Academic
 ======
