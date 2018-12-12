@@ -8,9 +8,22 @@ redirect_from:
 ---
 
 {% include base_path %}
+2019
+======
+* Spring 2019
+  * Instructor of Search (Z534)
+
+2018
+======
+* Spring 2018
+  * Instructor of Search (Z534)
+* Fall 2018
+  * Instructor of Search (Z534)
 
 2017 
 ======
+* Fall 2017
+  * Associate instructor of Search (Z534)
 * Summer 2017
   * Associate instructor of Data Science Online Program (Data Onramp)
 

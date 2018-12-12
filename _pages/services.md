@@ -11,6 +11,10 @@ redirect_from:
 
 Academic
 ======
+* Peer reviewer 2019 WWW (World Wide Web)
+* Peer reviewer 2018 SIGIR (Special Interest Group on Information Retrieval)
+* Peer reviewer 2018 WWW (World Wide Web)
+* Peer reviewer 2017 JASIST (Journal of the Association for Information Science and Technology)
 * Volunteer at NetSci (International School and Conference on Network Science), 2017
 * Volunteer at ODI (Open Data and Innovation Symposium), 2017
 
@@ -20,8 +24,10 @@ Administrative
 
 Award
 ======
+* 2018
+  * Clayton A. Shepherd Scholarship, Indiana University Bloomington
 * 2017
-  * T'ung-li Yuan Memorial Fellowship, 2015 - 2018 (Indiana University Bloomington)
+  * T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington
   * Travel Fund (Indiana University Bloomington)
 
 * 2016
