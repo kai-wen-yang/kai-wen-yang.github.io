@@ -31,7 +31,7 @@ Service
 
 Awards
 -----
-
+<div id="publication">Test</div>
 * <small>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 </small> 
 * <small>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
