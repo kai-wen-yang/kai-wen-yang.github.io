@@ -16,6 +16,7 @@ I am a fourth year Ph.D student of Information Science at School of Informatics,
 
 ------
 
+
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
@@ -23,6 +24,7 @@ I am a fourth year Ph.D student of Information Science at School of Informatics,
 ***
 ------
 ___
+
 
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
