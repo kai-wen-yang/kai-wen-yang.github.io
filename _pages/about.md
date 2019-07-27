@@ -12,17 +12,16 @@ redirect_from:
 {% include base_path %}
 
 
-<div id="education">Education</div>
-Education
+<h1 id="education">Education</h1> 
 -----
 
-<h3 id="research"> Research</h3>
-Research
+<h2 id="research"> Research</h2> 
+
 -----
 
-<!-- 
+
 <h3 id="publication">Publication</h3>
------ -->
+-----
 
 Experience
 -----
