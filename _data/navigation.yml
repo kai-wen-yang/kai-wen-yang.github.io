@@ -14,8 +14,8 @@ main:
     url: /#service     
   - title: "CV"
     url: /files/cv.pdf   
-  - title: "Blog"
-    url: https://scholar.google.com/ 
+  # - title: "Blog"
+  #   url: https://scholar.google.com/ 
   # - title: "Services"
   #   url: /services/
         
