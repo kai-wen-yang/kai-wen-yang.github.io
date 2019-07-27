@@ -12,24 +12,23 @@ redirect_from:
 {% include base_path %}
 
 
-<h1 id="education">Education</h1> 
+<h2 id="education">Education</h2> 
 -----
 
 <h2 id="research"> Research</h2> 
-
 -----
 
 
-<h3 id="publication">Publication</h3>
+<h2 id="publication">Publication</h2>
 -----
 
-Experience
+<h2 id="experience">Experience</h2> 
 -----
 
-<div id="service"> Service</div> 
+<h2 id="service"> Service</h2> 
 -----
 
-Awards
+<h2 id="award"> Award</h2> 
 -----
 * <small>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 </small> 
