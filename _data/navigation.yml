@@ -4,16 +4,12 @@ main:
   #   url: /cv/
   - title: "Research"
     url: /#research
-
   - title: "Publication"
     url: /#publication
-
   - title: "Experience"
-    url: /#experience
-  
+    url: /#experience  
   - title: "Service"
-    url: /#service  
-  
+    url: /#service    
   - title: "CV"
   url: https://github.com/RoyZhengGao/RoyZhengGao.github.io/tree/master/images    
   # - title: "Services"
