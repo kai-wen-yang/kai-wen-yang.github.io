@@ -32,10 +32,8 @@ a
 :   * Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
     * Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
-<font size=5>works as a </font>
-<font size=3>works as a </font>
-
-<small>小</small> <big>大</big>
+<small>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+</small> <big>大</big>  <big>大</big>
 ***
 ------
 ___
