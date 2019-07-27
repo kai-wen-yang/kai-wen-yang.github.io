@@ -4,10 +4,10 @@ main:
   #   url: /cv/
 
   - title: "Publication"
-    url: /about#publication
+    url: /#publication
 
   - title: "Service"
-    url: /about#Service  
+    url: /#service  
     
   # - title: "Services"
   #   url: /services/

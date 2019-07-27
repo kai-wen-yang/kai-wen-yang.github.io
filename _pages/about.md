@@ -4,6 +4,7 @@ title: "News"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
+  - /about#publication
   - /about
   - /about.html
 ---
