@@ -2,13 +2,20 @@
 main:
   # - title: "Home"
   #   url: /cv/
+  - title: "Research"
+    url: /#research
 
   - title: "Publication"
     url: /#publication
 
+  - title: "Experience"
+    url: /#experience
+  
   - title: "Service"
     url: /#service  
-    
+  
+  - title: "CV"
+  url: https://github.com/RoyZhengGao/RoyZhengGao.github.io/tree/master/images    
   # - title: "Services"
   #   url: /services/
         
