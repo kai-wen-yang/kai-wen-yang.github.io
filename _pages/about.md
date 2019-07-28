@@ -27,6 +27,10 @@ ul{
 ul li, ol li {
     margin-bottom: 0.em;
 }
+h1, h2, h3, h4, h5, h6 {
+	margin: 1em 0 0.5em;
+	border-bottom: 2px solid #f2f3f3;
+}
 </style>
 {% include base_path %}
 ddd
