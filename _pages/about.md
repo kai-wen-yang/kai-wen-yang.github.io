@@ -20,8 +20,8 @@ p{
 ul{
     /*margin: 0;*/
     /*padding: -30;*/
-    line-height: 13px;
-    margin-block-start: 0em;
+    line-height: 15px;
+    margin-block-start: 1em;
     margin-block-end: 0em;
 }
 ul li, ol li {
@@ -29,7 +29,7 @@ ul li, ol li {
 }
 </style>
 {% include base_path %}
-ccc
+ddd
 * <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
 * <small> 07/2019: one paper accepted to GECCO 2019!</small>  
 * <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small>  
