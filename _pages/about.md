@@ -18,21 +18,20 @@ redirect_from:
 <h2 id="research"> Research</h2>  
 <small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of School of Informatics, Computing, and Engineering (SICE) at Indiana University Bloomington, USA, advised by Prof. Xiaozhong Liu. My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from University of Pittsburgh, USA and my Bachelor's degree in Information Science from Shanghai International Studies University, China.</small>  
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field between Graph Mining and NLP to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
- <p style="line-height: 1.1;">This is the text in your text block.</p>
+ <p style="line-height: 0.1;">This is the text in your text block.</p>
   <p style="line-height: 1.1;">This is the text in your text block.</p>
 <h2 id="publication">Publication</h2> 
 
 <h2 id="experience">Experience</h2>  
 
-<h2 id="service"> Service</h2>  
-<small>**Conference Reviewer:**</small>
-* <small></small>
-* <small></small>
-* <small></small>  
-
-<small>**Journal Reviewer:**</small>
-* <small></small>  
-<small>**Administrative Service:**</small>
+<h2 id="service">Service</h2>  
+<small>**Conference Reviewer:**</small>  
+* <small>The Web Conference (WWW 2018, 2019)</small>
+* <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
+<small>**Journal Reviewer:**</small>  
+* <small>Journal of the Association for Information Science and Technology (JASIST)</small> 
+* <small>Social Network Analysis and Mining (SNAM)</small> 
+<small>**Administrative Service:**</small>  
 * <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington. (2016 - 2018) </small> 
 <h2 id="award"> Award</h2>  
 * <small>T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington. (2015 - 2018)</small>
