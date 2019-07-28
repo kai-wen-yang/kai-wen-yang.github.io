@@ -18,8 +18,8 @@ h6,
 p,
 ul,
 blockquote {
-    margin: 0;
-    padding: 0;
+    /*margin: 0;*/
+    padding: -3;
 }
 </style>
 {% include base_path %}
