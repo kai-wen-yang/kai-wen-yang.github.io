@@ -19,15 +19,15 @@ p,
 ul,
 blockquote {
     /*margin: 0;*/
-    padding: -3;
+    padding: -30;
 }
 body {
-    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
-    font-size: 13px;
-    line-height: 18px;
-    color: #737373;
+/*    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
+    font-size: 13px;*/
+    line-height: 5px;
+/*    color: #737373;
     background-color: white;
-    margin: 10px 13px 10px 13px;
+    margin: 10px 13px 10px 13px;*/
 } 
 </style>
 {% include base_path %}
