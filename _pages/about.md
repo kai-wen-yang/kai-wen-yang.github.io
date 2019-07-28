@@ -30,7 +30,7 @@ redirect_from:
 * <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
 <small>**Journal Reviewer:**</small>  
 * <small>Journal of the Association for Information Science and Technology (JASIST)</small> 
-* <small>Social Network Analysis and Mining (SNAM)</small> 
+* <small>Social Network Analysis and Mining (SNAM)</small>  
 <small>**Administrative Service:**</small>  
 * <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington. (2016 - 2018) </small> 
 <h2 id="award"> Award</h2>  
