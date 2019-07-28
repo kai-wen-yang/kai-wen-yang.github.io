@@ -23,10 +23,10 @@ p{
 ul{
     /*margin: 0;*/
     /*padding: -30;*/
-    line-height: 30px;
+    line-height: 15px;
 }
 p + ul{
-	line-height: 23px;
+	line-height: 10px;
 }
 body {
 /*    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
@@ -38,7 +38,7 @@ body {
 } 
 </style>
 {% include base_path %}
-ddd
+aaa
 * <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
 * <small> 07/2019: one paper accepted to GECCO 2019!</small>  
 * <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small>  
