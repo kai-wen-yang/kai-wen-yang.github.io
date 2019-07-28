@@ -9,12 +9,9 @@ redirect_from:
   - /about.html
 ---
 <style>
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
+.page__content p {
+    margin: 0 0 -1em;
+}
 p{
     /*margin: 0;*/
     /*padding: -30;*/
@@ -23,22 +20,16 @@ p{
 ul{
     /*margin: 0;*/
     /*padding: -30;*/
-    line-height: 15px;
+    line-height: 13px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
 }
-p + ul{
-	line-height: 10px;
+ul li, ol li {
+    margin-bottom: 0.em;
 }
-body {
-/*    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
-    font-size: 13px;*/
-    /*line-height: 5px;*/
-/*    color: #737373;
-    background-color: white;
-    margin: 10px 13px 10px 13px;*/
-} 
 </style>
 {% include base_path %}
-aaa
+bbb
 * <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
 * <small> 07/2019: one paper accepted to GECCO 2019!</small>  
 * <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small>  
