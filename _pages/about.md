@@ -15,11 +15,18 @@ h3,
 h4,
 h5,
 h6,
-p,
+p{
+    /*margin: 0;*/
+    /*padding: -30;*/
+    line-height: 15px;
+}
 ul{
     /*margin: 0;*/
     /*padding: -30;*/
-    line-height: 8px;
+    line-height: 10px;
+}
+p + ul{
+	line-height: 3px;
 }
 body {
 /*    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
