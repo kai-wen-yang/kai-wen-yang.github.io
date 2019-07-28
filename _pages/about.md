@@ -25,16 +25,15 @@ redirect_from:
 <h2 id="experience">Experience</h2>  
 
 <h2 id="service">Service</h2>  
-<small>**Conference Reviewer:**</small>  
+<small>**Conference Reviewer:**</small>
 * <small>The Web Conference (WWW 2018, 2019)</small>
 * <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
-
-<small>**Journal Reviewer:**</small>  
+<small>**Journal Reviewer:**</small>
 * <small>Journal of the Association for Information Science and Technology (JASIST)</small> 
-* <small>Social Network Analysis and Mining (SNAM)</small>  
+* <small>Social Network Analysis and Mining (SNAM)</small>
 
-<small>**Administrative Service:**</small>  
-* <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington. (2016 - 2018) </small> 
+<small>**Administrative Service:**</small>
+* <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington. (2016 - 2018) </small>
 <h2 id="award"> Award</h2>  
 * <small>T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington. (2015 - 2018)</small>
 * <small>Clayton A. Shepherd Scholarship, Indiana University Bloomington. (2018 - 2019) </small>
