@@ -28,9 +28,11 @@ redirect_from:
 <small>**Conference Reviewer:**</small>
 * <small></small>
 * <small></small>
-* <small></small>
+* <small></small>  
+
 <small>**Journal Reviewer:**</small>
-* <small></small>
+* <small></small>  
+<small>**Administrative Service:**</small>
 * <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington. (2016 - 2018) </small> 
 <h2 id="award"> Award</h2>  
 * <small>T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington. (2015 - 2018)</small>
