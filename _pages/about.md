@@ -8,6 +8,10 @@ redirect_from:
   - /about
   - /about.html
 ---
+p, ul {
+    padding: 0;
+    margin: 0;
+}
 
 {% include base_path %}
 * <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
