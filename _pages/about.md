@@ -13,11 +13,10 @@ redirect_from:
 
 
 <h2 id="education">Education</h2>  
-* <small style="color:blue"> 08/2019 I am actively looking for full time jobs on artificial intelligence (NLP, graph mining, Search, Recommendation). Feel free to drop me an email!</small>
-
-* <small> 07/2019 one paper accepted to GECCO 2019!</small> 
-* <small> 06/2019 Start my data scientiest internship at Amazon Alexa AI, Seattle.</small> 
-* <small> 05/2019 one paper accepted to BMC Bioinformatics!</small> 
+* <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, graph mining, Search, Recommendation). Feel free to drop me an email!</small>
+* <small> 07/2019: one paper accepted to GECCO 2019!</small> 
+* <small> 06/2019: Start my data scientiest internship at Amazon Alexa AI, Seattle.</small> 
+* <small> 05/2019: one paper accepted to BMC Bioinformatics!</small> 
 
 <h2 id="research"> Research</h2>  
 
