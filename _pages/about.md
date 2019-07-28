@@ -25,7 +25,8 @@ redirect_from:
 
 <h2 id="award"> Award</h2>  
 * <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington. (2016 - 2018) </small> 
-* <small>T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington (2015 - 2018)</small>* <small>Clayton A. Shepherd Scholarship, Indiana University Bloomington. (2018 - 2019) </small>
+* <small>T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington (2015 - 2018)</small>
+* <small>Clayton A. Shepherd Scholarship, Indiana University Bloomington. (2018 - 2019) </small>
 
 
 
