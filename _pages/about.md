@@ -45,18 +45,25 @@ ddd
 <h2 id="publication">Publication</h2> 
 
 <h2 id="experience">Experience</h2>  
+**Industry:** 
+* <small>Data Scientist Intern, Amazon Alexa AI (June 2019 - September 2019)</small>  
+* <small>Research Intern, NLP team, Alibaba DAMO Academy / AI Lab (February 2018 - March 2019)</small>
+
+**Academia:** 
+* <small>The Web Conference (WWW 2018, 2019)</small>  
+* <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>
 
 <h2 id="service">Service</h2>  
 
-<small>**Conference Reviewer:**</small>  
+**Conference Reviewer:** 
 * <small>The Web Conference (WWW 2018, 2019)</small>  
 * <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
 
-<small>**Journal Reviewer:**</small>
+**Journal Reviewer:**
 * <small>Journal of the Association for Information Science and Technology (JASIST)</small>
 * <small>Social Network Analysis and Mining (SNAM)</small> 
 
-<small>**Administrative Service:**</small>  
+**Administrative Service:**  
 * <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington. (2016 - 2018) </small>
 <h2 id="award"> Award</h2> 
 
