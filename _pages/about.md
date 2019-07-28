@@ -35,43 +35,38 @@ h1, h2, h3, h4, h5, h6 {
 {% include base_path %}
 ddd
 * <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
-* <small> 07/2019: one paper accepted to GECCO 2019!</small>  
+* <small> 07/2019: One paper accepted to GECCO 2019!</small>  
 * <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small>  
-* <small> 05/2019: one paper accepted to BMC Bioinformatics!</small> 
+* <small> 05/2019: One paper accepted to BMC Bioinformatics!</small> 
 <h2 id="research"> Research</h2>  
 
 <small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of School of Informatics, Computing, and Engineering (SICE) at Indiana University Bloomington, USA, advised by Prof. Xiaozhong Liu. My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from University of Pittsburgh, USA and my Bachelor's degree in Information Science from Shanghai International Studies University, China.</small>  
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field between Graph Mining and NLP to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 <h2 id="publication">Publication</h2> 
 
-<h2 id="experience">Experience</h2>  
-**Industry:** 
+<h2 id="experience">Experience</h2>   
 * <small>Data Scientist Intern, Amazon Alexa AI (June 2019 - September 2019)</small>  
 * <small>Research Intern, NLP team, Alibaba DAMO Academy / AI Lab (February 2018 - March 2019)</small>
-
-**Academia:** 
-* <small>The Web Conference (WWW 2018, 2019)</small>  
-* <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>
-
+* <small>Instructor, IUB SICE Z534 Search (2018 spring/fall, 2019 spring/fall)</small>
 <h2 id="service">Service</h2>  
 
-**Conference Reviewer:** 
+<small>**Conference Reviewer:**</small>   
 * <small>The Web Conference (WWW 2018, 2019)</small>  
 * <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
 
-**Journal Reviewer:**
+<small>**Journal Reviewer:**</small>  
 * <small>Journal of the Association for Information Science and Technology (JASIST)</small>
 * <small>Social Network Analysis and Mining (SNAM)</small> 
 
-**Administrative Service:**  
-* <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington. (2016 - 2018) </small>
+<small>**Administrative Service:**</small>    
+* <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington (2016 - 2018) </small>
 <h2 id="award"> Award</h2> 
 
-* <small>T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington. (2015 - 2018)</small>
-* <small>Clayton A. Shepherd Scholarship, Indiana University Bloomington. (2018 - 2019) </small>
-* <small>IUB SICE Ph.D. Travel Award. (2015 - 2019)</small>
-* <small>NetSci Student Travel Award. (2017) </small>
-* <small>IUB GPSG Travel Award. (2017) </small>
+* <small>T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington (2015 - 2018)</small>
+* <small>Clayton A. Shepherd Scholarship, Indiana University Bloomington (2018 - 2019) </small>
+* <small>IUB SICE Ph.D. Travel Award (2015 - 2019)</small>
+* <small>NetSci Student Travel Award (2017) </small>
+* <small>IUB GPSG Travel Award (2017) </small>
 
 
 
