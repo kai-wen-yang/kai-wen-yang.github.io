@@ -10,12 +10,12 @@ redirect_from:
 ---
 <style>
 .page__content p {
-    margin: 0 0 -1em;
+    margin: 0 0 0em;
 }
 p{
     /*margin: 0;*/
     /*padding: -30;*/
-    line-height: 15px;
+    /*line-height: 15px;*/
 }
 ul{
     /*margin: 0;*/
