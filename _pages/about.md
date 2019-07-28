@@ -26,7 +26,7 @@ ul{
     line-height: 30px;
 }
 p + ul{
-	line-height: 3px;
+	line-height: 23px;
 }
 body {
 /*    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
