@@ -24,12 +24,8 @@ redirect_from:
 <h2 id="service"> Service</h2>  
 
 <h2 id="award"> Award</h2>  
-* <small>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-</small> 
-* <small>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-</small> 
-* <small>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-</small> 
+* <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington. (2016 - 2018) </small> 
+* <small>T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington (2015 - 2018)</small>* <small>Clayton A. Shepherd Scholarship, Indiana University Bloomington. (2018 - 2019) </small>
 
 
 
