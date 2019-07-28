@@ -16,15 +16,15 @@ h4,
 h5,
 h6,
 p,
-ul,
-blockquote {
+ul{
     /*margin: 0;*/
     /*padding: -30;*/
+    line-height: 8px;
 }
 body {
 /*    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
     font-size: 13px;*/
-    line-height: 5px;
+    /*line-height: 5px;*/
 /*    color: #737373;
     background-color: white;
     margin: 10px 13px 10px 13px;*/
