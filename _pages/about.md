@@ -18,6 +18,8 @@ redirect_from:
 <h2 id="research"> Research</h2>  
 <small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of School of Informatics, Computing, and Engineering at Indiana University, advised by Prof. Xiaozhong Liu. I received my Master's degree in Information Science from University of Pittsburgh, USA and my Bachelor's degree in Information Science from Shanghai International Studies University, China.</small>
 
+<small>My research interests are primarily in the area of Graph mining and Natural Language Processing (NLP). I am trying to apply Deep learning techniques to solve Information Retrieval and Recommendation tasks as well.</small>
+
 <h2 id="publication">Publication</h2> 
 
 <h2 id="experience">Experience</h2>  
