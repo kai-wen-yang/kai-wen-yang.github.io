@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zheng Gao"
 title_separator          : "-"
 name                     : &name "Zheng Gao"
-description              : &description "PhD candidate at Indiana University Bloomington"
+description              : &description "Ph.D. candidate at Indiana University Bloomington"
 url                      : https://royzhenggao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "royzhenggao.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Zheng Gao (高正)"
   avatar           : "profile.png"
-  bio              : "Ph.D candidate at Indiana University Bloomington"
+  bio              : "Ph.D. candidate at Indiana University Bloomington"
   location         : "Bloomington, Indiana, USA"
   employer         :  
   googlescholar    : "https://scholar.google.com/citations?user=C8M7-1YAAAAJ&hl=en"
