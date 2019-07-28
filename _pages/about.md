@@ -18,10 +18,8 @@ redirect_from:
 <h2 id="research"> Research</h2>  
 <small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of School of Informatics, Computing, and Engineering (SICE) at Indiana University Bloomington, USA, advised by Prof. Xiaozhong Liu. My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from University of Pittsburgh, USA and my Bachelor's degree in Information Science from Shanghai International Studies University, China.</small>  
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field between Graph Mining and NLP to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
-
-abc  
-d
-
+ <p style="line-height: 1.1;">This is the text in your text block.</p>
+  <p style="line-height: 1.1;">This is the text in your text block.</p>
 <h2 id="publication">Publication</h2> 
 
 <h2 id="experience">Experience</h2>  
