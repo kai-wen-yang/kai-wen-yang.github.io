@@ -8,6 +8,20 @@ redirect_from:
   - /about
   - /about.html
 ---
+<style>
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+blockquote {
+    margin: 0;
+    padding: 0;
+}
+</style>
 {% include base_path %}
 * <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
 * <small> 07/2019: one paper accepted to GECCO 2019!</small>  
