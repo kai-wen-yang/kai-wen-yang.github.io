@@ -10,10 +10,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-- <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>
-- <small> 07/2019: one paper accepted to GECCO 2019!</small> 
-+ <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small> 
-* <small> 05/2019: one paper accepted to BMC Bioinformatics!</small> 
+* <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
+* <small> 07/2019: one paper accepted to GECCO 2019!</small>  
+* <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small>  
+* <small> 05/2019: one paper accepted to BMC Bioinformatics!</small>
 
 <h2 id="research"> Research</h2>  
 <small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of School of Informatics, Computing, and Engineering (SICE) at Indiana University Bloomington, USA, advised by Prof. Xiaozhong Liu. My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from University of Pittsburgh, USA and my Bachelor's degree in Information Science from Shanghai International Studies University, China.</small>  
