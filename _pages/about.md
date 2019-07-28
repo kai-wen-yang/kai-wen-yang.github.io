@@ -45,9 +45,9 @@ ddd
 <h2 id="publication">Publication</h2> 
 
 <h2 id="experience">Experience</h2>   
-* <small>Data Scientist Intern, Amazon Alexa AI (June 2019 - September 2019)</small>  
-* <small>Research Intern, NLP team, Alibaba DAMO Academy / AI Lab (February 2018 - March 2019)</small>
-* <small>Instructor, IUB SICE Z534 Search (2018 spring/fall, 2019 spring/fall)</small>
+* <small>**Data Scientist Intern**, Amazon Alexa AI (June 2019 - September 2019)</small>  
+* <small>**NLP Research Intern**, Alibaba DAMO Academy / AI Lab (February 2018 - March 2019)</small>
+* <small>**Instructor**, IUB SICE ILS-Z534, Search ( Spring/Fall 2018, Spring/Fall 2019)</small>
 <h2 id="service">Service</h2>  
 
 <small>**Conference Reviewer:**</small>   
