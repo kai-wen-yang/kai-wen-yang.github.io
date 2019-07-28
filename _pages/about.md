@@ -28,13 +28,12 @@ ul li, ol li {
     margin-bottom: 0.em;
 }
 h1, h2, h3, h4, h5, h6 {
-	margin: 1em 0 0.5em;
+	margin: 1em 0 0.2em;
 	border-bottom: 2px solid #f2f3f3;
 }
 </style>
-{% include base_path %}
-ddd
-* <small> 08/2019:</small> <small style="color:red">I am actively looking for full time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
+{% include base_path %} 
+* <small> 08/2019:</small> <small style="color:red">I am actively looking for full-time scientist jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
 * <small> 07/2019: One paper accepted to GECCO 2019!</small>  
 * <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small>  
 * <small> 05/2019: One paper accepted to BMC Bioinformatics!</small> 
@@ -47,7 +46,7 @@ ddd
 <h2 id="experience">Experience</h2>   
 * <small>**Data Scientist Intern**, Amazon Alexa AI (June 2019 - September 2019)</small>  
 * <small>**NLP Research Intern**, Alibaba DAMO Academy / AI Lab (February 2018 - March 2019)</small>
-* <small>**Instructor**, IUB SICE ILS-Z534, Search ( Spring/Fall 2018, Spring/Fall 2019)</small>
+* <small>**Instructor**, IUB ILS-Z534, Search ( Spring/Fall 2018, Spring/Fall 2019)</small>
 <h2 id="service">Service</h2>  
 
 <small>**Conference Reviewer:**</small>   
