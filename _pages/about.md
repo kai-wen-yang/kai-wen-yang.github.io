@@ -43,8 +43,8 @@ h1, h2, h3, h4, h5, h6 {
 <small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of [School of Informatics, Computing, and Engineering (SICE)](https://sice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/), USA, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me). My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from [University of Pittsburgh](https://www.pitt.edu/), USA and my Bachelor's degree in Information Science from [Shanghai International Studies University](http://en.shisu.edu.cn/), China.</small>  
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 <h2 id="publication">Publication</h2> 
-1. <small>Effcient Personalized Community Detection via Genetic Evolution. **Zheng Gao**, Chun Guo, Xiaozhong Liu. The Genetic and volutionary Computation Conference (GECCO), 2019.</small>
-1. <small>Effcient Personalized Community Detection via Genetic Evolution. <br>
+<small>1. Effcient Personalized Community Detection via Genetic Evolution. **Zheng Gao**, Chun Guo, Xiaozhong Liu. The Genetic and volutionary Computation Conference (GECCO), 2019.</small>
+<small>1. Effcient Personalized Community Detection via Genetic Evolution. <br>
 	**Zheng Gao**, Chun Guo, Xiaozhong Liu
 	The Genetic and volutionary Computation Conference (GECCO), 2019.</small>
 
