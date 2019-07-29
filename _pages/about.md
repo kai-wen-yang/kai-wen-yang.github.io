@@ -47,13 +47,13 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="experience">Experience</h2> 
 <small>**Industry:**</small> 
 
-* <small>**Data Scientist Intern**, Amazon Alexa AI (June 2019 - September 2019)</small>  
-* <small>**NLP Research Intern**, Alibaba DAMO Academy / AI Lab (February 2018 - March 2019)</small>
+* <small>Data Scientist Intern, Amazon Alexa AI (June 2019 - September 2019)</small>  
+* <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (February 2018 - March 2019)</small>
 
 <small>**Teaching:**</small> 
-* <small>**Instructor**, IUB ILS-Z534, Search (Spring/Fall 2018, Spring/Fall 2019)</small>
-* <small>**Associate Instructor**, IUB ILS-Z534, Search (Fall 2015, Fall 2016, Fall 2017)</small>
-* <small>**Associate Instructor**, IUB INFO-I590: Topics in Informatics (Summer 2016, Spring/Summer 2017)</small>
+* <small>Instructor, IUB ILS-Z534, Search (Spring/Fall 2018, Spring/Fall 2019)</small>
+* <small>Associate Instructor, IUB ILS-Z534, Search (Fall 2015, Fall 2016, Fall 2017)</small>
+* <small>Associate Instructor, IUB INFO-I590: Topics in Informatics (Summer 2016, Spring/Summer 2017)</small>
 <h2 id="service">Service</h2>  
 
 <small>**Conference Reviewer:**</small>   
