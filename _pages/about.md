@@ -44,49 +44,38 @@ h1, h2, h3, h4, h5, h6 {
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 <h2 id="publication">Publication</h2> 
 
-* <small>Zheng Gao, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic
-Evolution. The Genetic and Evolutionary Computation Conference (GECCO), 2019. <small>
-* <small>Zheng Gao, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher
-Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation learning using edge
-semantics for biomedical knowledge discovery. BMC Bioinformatics, 2019. (impact factor = 2.511).<small>
-* <small>Yongzhen Wang, Xiaozhong Liu, Zheng Gao. Neural Related Work Summarization with a Joint
-Context-driven Attention Mechanism. Conference on Empirical Methods in Natural Language Pro-
-cessing (EMNLP), 2018.</small>
-* <small>Zheng Gao, Lin Guo, Chi Ma, Xiao Ma, Kai Sun, Hang Xiang, Xiaoqiang Zhu, Hongsong Li,
-Xiaozhong Liu. AMAD: Adversarial Multiscale Anomaly Detection on High-Dimensional and Time-
-Evolving Categorical Data. Deep Learning Practice for High-Dimensional Sparse Data Workshop at
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (DLP-KDD), 2019.</small>
-* <small>Zizhe Gao, Zheng Gao, Heng Huang, Zhuoren Jiang, Yuliang Yan. An End-to-end Model of Pre-
-dicting Diverse Ranking On Heterogeneous Feeds. eCOM Workshop at ACM SIGIR Conference on
-Research and Development in Information Retrieval (eCom-SIGIR), 2018.</small>
-* <small>Zhuoren Jiang, Liangcai Gao, Ke Yuan, Zheng Gao, Zhi Tang, Xiaozhong Liu. Mathematics Content
-Understanding for Cyberlearning via Formula Evolution Map. ACM International Conference on
-Information and Knowledge Management (CIKM), 2018.</small>
-* <small>Xiaozhong Liu, Xing Yu, Zheng Gao, Tian Xia, Johan Bollen. Comparing community-based infor-
-mation adoption and diffusion across different microblogging sites. ACM Conference on Hypertext
-and Social Media, 2016.</small>
-* <small>Zheng Gao, Vincent Malic, Shutian Ma, Patrick Shih. How to Make a Successful Movie: Factor
-Analysis from both Financial and Critical Perspectives. International Conference on Information,
-2019.</small>
-* <small>Yongzhen Wang, Yan Lin, Zheng Gao, Yan Chen. A Two-stage Iterative Approach to Improve
+* <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. <small>
+* <small>**Zheng Gao**, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation learning using edge semantics for biomedical knowledge discovery. *BMC Bioinformatics*, 2019. (impact factor = 2.511).<small>
+* <small>Yongzhen Wang, Xiaozhong Liu, **Zheng Gao**. Neural Related Work Summarization with a Joint
+Context-driven Attention Mechanism. *Conference on Empirical Methods in Natural Language Pro-
+cessing (EMNLP)*, 2018.</small>
+* <small>**Zheng Gao**, Lin Guo, Chi Ma, Xiao Ma, Kai Sun, Hang Xiang, Xiaoqiang Zhu, Hongsong Li,
+Xiaozhong Liu. AMAD: Adversarial Multiscale Anomaly Detection on High-Dimensional and Time-Evolving Categorical Data. *Deep Learning Practice for High-Dimensional Sparse Data Workshop at ACM SIGKDD Conference on Knowledge Discovery and Data Mining (DLP-KDD)*, 2019.</small>
+* <small>Zizhe Gao, **Zheng Gao**, Heng Huang, Zhuoren Jiang, Yuliang Yan. An End-to-end Model of Pre-
+dicting Diverse Ranking On Heterogeneous Feeds. *eCOM Workshop at ACM SIGIR Conference on Research and Development in Information Retrieval (eCom-SIGIR)*, 2018.</small>
+* <small>Zhuoren Jiang, Liangcai Gao, Ke Yuan, **Zheng Gao**, Zhi Tang, Xiaozhong Liu. Mathematics Content Understanding for Cyberlearning via Formula Evolution Map. *ACM International Conference on
+Information and Knowledge Management (CIKM)*, 2018.</small>
+* <small>Xiaozhong Liu, Xing Yu, **Zheng Gao**, Tian Xia, Johan Bollen. Comparing community-based infor-
+mation adoption and diffusion across different microblogging sites. *ACM Conference on Hypertext and Social Media*, 2016.</small>
+* <small>**Zheng Gao**, Vincent Malic, Shutian Ma, Patrick Shih. How to Make a Successful Movie: Factor Analysis from both Financial and Critical Perspectives. *International Conference on Information*, 2019.</small>
+* <small>Yongzhen Wang, Yan Lin, **Zheng Gao**, Yan Chen. A Two-stage Iterative Approach to Improve
 Crowdsourcing-based Relevance Assessment. Arabian Journal for Science and Engineering, 2019.</small>
-* <small>Zheng Gao, Xiaozhong Liu. Personalized Community Detection in Scholarly Network. International
+* <small>**Zheng Gao**, Xiaozhong Liu. Personalized Community Detection in Scholarly Network. International
 Conference on Information, 2017.</small>
-* <small>Tian Xia, Xing Yu, Zheng Gao, Yijun Gu, Xiaozhong Liu. Internal/External Information Access
+* <small>Tian Xia, Xing Yu, **Zheng Gao**, Yijun Gu, Xiaozhong Liu. Internal/External Information Access
 and Information Diffusion in Social Media. International Conference on Information, 2017.
-* <small>Nan Li, Naren Suri, Zheng Gao, Tian Xia, Xiaozhong Liu, Katy Borner. Enter a Job, Get Course
+* <small>Nan Li, Naren Suri, **Zheng Gao**, Tian Xia, Xiaozhong Liu, Katy Borner. Enter a Job, Get Course
 Recommendations. International Conference on Information, 2017.</small>
-* <small>Zheng Gao, John Wolohan, Fast NLP-based Pattern Matching in Real Time Tweet Recommenda-
+* <small>**Zheng Gao**, John Wolohan, Fast NLP-based Pattern Matching in Real Time Tweet Recommenda-
 tion. Text REtrieval Conference (TREC), 2017.</small>
-* <small>Chenwei Zhang, Zheng Gao, Xiaozhong Liu. How others affect your Twitter #hashtag adoption?
+* <small>Chenwei Zhang, **Zheng Gao**, Xiaozhong Liu. How others affect your Twitter #hashtag adoption?
 Examination of community-based and context-based information diffusion in Twitter, International
 Conference on Information, 2015.</small>
-* <small>Zheng Gao, Rui Bi. University of Pittsburgh at TREC 2014 Microblog Track. Text REtrieval
+* <small>**Zheng Gao**, Rui Bi. University of Pittsburgh at TREC 2014 Microblog Track. Text REtrieval
 Conference (TREC), 2014.</small>
-* <small>Zheng Gao, Patrick C. Shih. Communities of Support: Social Support Discussion in a HIV Online
+* <small>**Zheng Gao**, Patrick C. Shih. Communities of Support: Social Support Discussion in a HIV Online
 Forum. International Symposium of Chinese CHI, 2019.</small>
-* <small>Satoshi Tsutsui, Zheng Gao, Yuzhuo Wang, Guilin Meng, Ying Ding. A Case Study on Viziometrics:
-Whats the Role of Western Blots in Alzheimers Disease Literature. International Conference on
+* <small>Satoshi Tsutsui, **Zheng Gao**, Yuzhuo Wang, Guilin Meng, Ying Ding. A Case Study on Viziometrics: Whats the Role of Western Blots in Alzheimers Disease Literature. International Conference on
 Information, 2018.</small>
 
 <h2 id="experience">Experience</h2> 
