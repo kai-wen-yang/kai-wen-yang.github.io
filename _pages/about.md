@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="publication">Publication</h2> 
 
 * <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711) <small>
-* <small>**Zheng Gao**, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation learning using edge semantics for biomedical knowledge discovery. *BMC Bioinformatics*, 2019. (impact factor = 2.511). [[PDF]](https://link.springer.com/article/10.1186/s12859-019-2914-2)<small>
+* <small>**Zheng Gao**, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation learning using edge semantics for biomedical knowledge discovery. *BMC Bioinformatics*, 2019. (impact factor = 2.511). [[PDF]](https://link.springer.com/article/10.1186/s12859-019-2914-2) [code](https://github.com/RoyZhengGao/edge2vec)<small>
 * <small>Yongzhen Wang, Xiaozhong Liu, **Zheng Gao**. Neural Related Work Summarization with a Joint
 Context-driven Attention Mechanism. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2018. [[PDF]](https://www.aclweb.org/anthology/papers/D/D18/D18-1204/)</small>
 * <small>**Zheng Gao**, Lin Guo, Chi Ma, Xiao Ma, Kai Sun, Hang Xiang, Xiaoqiang Zhu, Hongsong Li,
