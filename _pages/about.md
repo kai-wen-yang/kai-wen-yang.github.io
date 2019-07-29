@@ -29,7 +29,7 @@ ul li, ol li {
 }
 h1, h2, h3, h4, h5, h6 {
 	padding-bottom: 0.2em;
-	margin: 1em 0 0em;
+	margin: 1em 0 0.5em;
 	border-bottom: 2px solid #f2f3f3;
 }
 </style>
