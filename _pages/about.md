@@ -43,17 +43,30 @@ h1, h2, h3, h4, h5, h6 {
 <small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of [School of Informatics, Computing, and Engineering (SICE)](https://sice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/), USA, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me). My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from [University of Pittsburgh](https://www.pitt.edu/), USA and my Bachelor's degree in Information Science from [Shanghai International Studies University](http://en.shisu.edu.cn/), China.</small>  
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 <h2 id="publication">Publication</h2> 
-<small>
-1. Effcient Personalized Community Detection via Genetic Evolution. **Zheng Gao**, Chun Guo, Xiaozhong Liu. The Genetic and volutionary Computation Conference (GECCO), 2019.  
+
+<small>1. Effcient Personalized Community Detection via Genetic Evolution. **Zheng Gao**, Chun Guo, Xiaozhong Liu. The Genetic and volutionary Computation Conference (GECCO), 2019. <small> 
 1. Zheng Gao, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher
 Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation learning using edge
 semantics for biomedical knowledge discovery. BMC Bioinformatics, 2019. (impact factor = 2.511).
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. Yongzhen Wang, Xiaozhong Liu, Zheng Gao. Neural Related Work Summarization with a Joint
+Context-driven Attention Mechanism. Conference on Empirical Methods in Natural Language Pro-
+cessing (EMNLP), 2018.
+1. Zheng Gao, Lin Guo, Chi Ma, Xiao Ma, Kai Sun, Hang Xiang, Xiaoqiang Zhu, Hongsong Li,
+Xiaozhong Liu. AMAD: Adversarial Multiscale Anomaly Detection on High-Dimensional and Time-
+Evolving Categorical Data. Deep Learning Practice for High-Dimensional Sparse Data Workshop at
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (DLP-KDD), 2019.
+1. Zizhe Gao, Zheng Gao, Heng Huang, Zhuoren Jiang, Yuliang Yan. An End-to-end Model of Pre-
+dicting Diverse Ranking On Heterogeneous Feeds. eCOM Workshop at ACM SIGIR Conference on
+Research and Development in Information Retrieval (eCom-SIGIR), 2018.
+1. Zhuoren Jiang, Liangcai Gao, Ke Yuan, Zheng Gao, Zhi Tang, Xiaozhong Liu. Mathematics Content
+Understanding for Cyberlearning via Formula Evolution Map. ACM International Conference on
+Information and Knowledge Management (CIKM), 2018.
+1. Xiaozhong Liu, Xing Yu, Zheng Gao, Tian Xia, Johan Bollen. Comparing community-based infor-
+mation adoption and diffusion across different microblogging sites. ACM Conference on Hypertext
+and Social Media, 2016.
+1. Zheng Gao, Vincent Malic, Shutian Ma, Patrick Shih. How to Make a Successful Movie: Factor
+Analysis from both Financial and Critical Perspectives. International Conference on Information,
+2019.
 1. 
 1. 
 1. 
@@ -63,7 +76,7 @@ semantics for biomedical knowledge discovery. BMC Bioinformatics, 2019. (impact 
 <h2 id="experience">Experience</h2> 
 <small>**Industry:**</small> 
 
-* <small>Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
+<small>* Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
 
 <small>**Teaching:**</small> 
