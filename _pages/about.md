@@ -40,13 +40,13 @@ h1, h2, h3, h4, h5, h6 {
 * <small> 05/2019: One paper accepted to BMC Bioinformatics!</small> 
 <h2 id="research"> Research</h2>  
 
-<small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of School of Informatics, Computing, and Engineering (SICE) at Indiana University Bloomington, USA, advised by Prof. Xiaozhong Liu. My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from University of Pittsburgh, USA and my Bachelor's degree in Information Science from Shanghai International Studies University, China.</small>  
+<small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of [School of Informatics, Computing, and Engineering (SICE)](https://sice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/), USA, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me). My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from []University of Pittsburgh(https://www.pitt.edu/), USA and my Bachelor's degree in Information Science from [Shanghai International Studies University](http://en.shisu.edu.cn/), China.</small>  
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field between Graph Mining and NLP to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 <h2 id="publication">Publication</h2> 
 
 <h2 id="experience">Experience</h2>   
 * <small>**Data Scientist Intern**, Amazon Alexa AI (June 2019 - September 2019)</small>  
-* <small>**NLP Research Intern**, Alibaba DAMO Academy / AI Lab (February 2018 - March 2019)</small>
+* <small>**NLP Research Intern**, [Alibaba DAMO Academy / AI Lab](https://damo.alibaba.com/) (February 2018 - March 2019)</small>
 * <small>**Instructor**, IUB ILS-Z534, Search ( Spring/Fall 2018, Spring/Fall 2019)</small>
 <h2 id="service">Service</h2>  
 
