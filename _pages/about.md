@@ -45,9 +45,19 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="publication">Publication</h2> 
 <small>
 1. Effcient Personalized Community Detection via Genetic Evolution. **Zheng Gao**, Chun Guo, Xiaozhong Liu. The Genetic and volutionary Computation Conference (GECCO), 2019.  
-1. Effcient Personalized Community Detection via Genetic Evolution. 
-	**Zheng Gao**, Chun Guo, Xiaozhong Liu
-	The Genetic and volutionary Computation Conference (GECCO), 2019.
+1. Zheng Gao, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher
+Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation learning using edge
+semantics for biomedical knowledge discovery. BMC Bioinformatics, 2019. (impact factor = 2.511).
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
 </small>
 
 <h2 id="experience">Experience</h2> 
