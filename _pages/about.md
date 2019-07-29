@@ -17,6 +17,9 @@ p{
     /*padding: -30;*/
     /*line-height: 15px;*/
 }
+a{
+	color:red;
+}
 ul{
     /*margin: 0;*/
     /*padding: -30;*/
