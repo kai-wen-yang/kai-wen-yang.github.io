@@ -60,23 +60,19 @@ mation adoption and diffusion across different microblogging sites. *ACM Confere
 * <small>**Zheng Gao**, Vincent Malic, Shutian Ma, Patrick Shih. How to Make a Successful Movie: Factor Analysis from both Financial and Critical Perspectives. *International Conference on Information*, 2019.</small>
 * <small>Yongzhen Wang, Yan Lin, **Zheng Gao**, Yan Chen. A Two-stage Iterative Approach to Improve
 Crowdsourcing-based Relevance Assessment. Arabian Journal for Science and Engineering, 2019.</small>
-* <small>**Zheng Gao**, Xiaozhong Liu. Personalized Community Detection in Scholarly Network. International
-Conference on Information, 2017.</small>
+* <small>**Zheng Gao**, Xiaozhong Liu. Personalized Community Detection in Scholarly Network. *International Conference on Information*, 2017.</small>
 * <small>Tian Xia, Xing Yu, **Zheng Gao**, Yijun Gu, Xiaozhong Liu. Internal/External Information Access
-and Information Diffusion in Social Media. International Conference on Information, 2017.
+and Information Diffusion in Social Media. *International Conference on Information*, 2017.
 * <small>Nan Li, Naren Suri, **Zheng Gao**, Tian Xia, Xiaozhong Liu, Katy Borner. Enter a Job, Get Course
-Recommendations. International Conference on Information, 2017.</small>
+Recommendations. *International Conference on Information*, 2017.</small>
 * <small>**Zheng Gao**, John Wolohan, Fast NLP-based Pattern Matching in Real Time Tweet Recommenda-
-tion. Text REtrieval Conference (TREC), 2017.</small>
+tion. *Text REtrieval Conference (TREC)*, 2017.</small>
 * <small>Chenwei Zhang, **Zheng Gao**, Xiaozhong Liu. How others affect your Twitter #hashtag adoption?
-Examination of community-based and context-based information diffusion in Twitter, International
-Conference on Information, 2015.</small>
-* <small>**Zheng Gao**, Rui Bi. University of Pittsburgh at TREC 2014 Microblog Track. Text REtrieval
-Conference (TREC), 2014.</small>
-* <small>**Zheng Gao**, Patrick C. Shih. Communities of Support: Social Support Discussion in a HIV Online
-Forum. International Symposium of Chinese CHI, 2019.</small>
-* <small>Satoshi Tsutsui, **Zheng Gao**, Yuzhuo Wang, Guilin Meng, Ying Ding. A Case Study on Viziometrics: Whats the Role of Western Blots in Alzheimers Disease Literature. International Conference on
-Information, 2018.</small>
+Examination of community-based and context-based information diffusion in Twitter, *International Conference on Information*, 2015.</small>
+* <small>**Zheng Gao**, Rui Bi. University of Pittsburgh at TREC 2014 Microblog Track. *Text REtrieval
+Conference (TREC)*, 2014.</small>
+* <small>**Zheng Gao**, Patrick C. Shih. Communities of Support: Social Support Discussion in a HIV Online Forum. *International Symposium of Chinese CHI*, 2019.</small>
+* <small>Satoshi Tsutsui, **Zheng Gao**, Yuzhuo Wang, Guilin Meng, Ying Ding. A Case Study on Viziometrics: Whats the Role of Western Blots in Alzheimers Disease Literature. *International Conference on Information*, 2018.</small>
 
 <h2 id="experience">Experience</h2> 
 <small>**Industry:**</small> 
