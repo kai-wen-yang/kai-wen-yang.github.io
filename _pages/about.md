@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 <h2 id="publication">Publication</h2> 
 
-<small>[1]. Zheng Gao, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic
+<small>[1]. + Zheng Gao, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic
 Evolution. The Genetic and Evolutionary Computation Conference (GECCO), 2019. <small> 
 <small>[2]. Zheng Gao, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher
 Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation learning using edge
