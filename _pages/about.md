@@ -44,10 +44,11 @@ h1, h2, h3, h4, h5, h6 {
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 <h2 id="publication">Publication</h2> 
 
-<small>1. Effcient Personalized Community Detection via Genetic Evolution. **Zheng Gao**, Chun Guo, Xiaozhong Liu. The Genetic and volutionary Computation Conference (GECCO), 2019. <small> 
-1. Zheng Gao, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher
+<small>[1]. Zheng Gao, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic
+Evolution. The Genetic and Evolutionary Computation Conference (GECCO), 2019. <small> 
+<small>[2]. Zheng Gao, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher
 Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation learning using edge
-semantics for biomedical knowledge discovery. BMC Bioinformatics, 2019. (impact factor = 2.511).
+semantics for biomedical knowledge discovery. BMC Bioinformatics, 2019. (impact factor = 2.511).<small>
 1. Yongzhen Wang, Xiaozhong Liu, Zheng Gao. Neural Related Work Summarization with a Joint
 Context-driven Attention Mechanism. Conference on Empirical Methods in Natural Language Pro-
 cessing (EMNLP), 2018.
@@ -67,16 +68,32 @@ and Social Media, 2016.
 1. Zheng Gao, Vincent Malic, Shutian Ma, Patrick Shih. How to Make a Successful Movie: Factor
 Analysis from both Financial and Critical Perspectives. International Conference on Information,
 2019.
-1. 
-1. 
-1. 
-1. 
+1. Yongzhen Wang, Yan Lin, Zheng Gao, Yan Chen. A Two-stage Iterative Approach to Improve
+Crowdsourcing-based Relevance Assessment. Arabian Journal for Science and Engineering, 2019.
+1. Zheng Gao, Xiaozhong Liu. Personalized Community Detection in Scholarly Network. International
+Conference on Information, 2017.
+1. Tian Xia, Xing Yu, Zheng Gao, Yijun Gu, Xiaozhong Liu. Internal/External Information Access
+and Information Diffusion in Social Media. International Conference on Information, 2017.
+1. Nan Li, Naren Suri, Zheng Gao, Tian Xia, Xiaozhong Liu, Katy Borner. Enter a Job, Get Course
+Recommendations. International Conference on Information, 2017.
+1. Zheng Gao, John Wolohan, Fast NLP-based Pattern Matching in Real Time Tweet Recommenda-
+tion. Text REtrieval Conference (TREC), 2017.
+1. Chenwei Zhang, Zheng Gao, Xiaozhong Liu. How others affect your Twitter #hashtag adoption?
+Examination of community-based and context-based information diffusion in Twitter, International
+Conference on Information, 2015.
+1. Zheng Gao, Rui Bi. University of Pittsburgh at TREC 2014 Microblog Track. Text REtrieval
+Conference (TREC), 2014.
+1. Zheng Gao, Patrick C. Shih. Communities of Support: Social Support Discussion in a HIV Online
+Forum. International Symposium of Chinese CHI, 2019.
+1. Satoshi Tsutsui, Zheng Gao, YuzhuoWang, Guilin Meng, Ying Ding. A Case Study on Viziometrics:
+Whats the Role of Western Blots in Alzheimers Disease Literature. International Conference on
+Information, 2018.
 </small>
 
 <h2 id="experience">Experience</h2> 
 <small>**Industry:**</small> 
 
-<small>* Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
+* <small>Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
 
 <small>**Teaching:**</small> 
