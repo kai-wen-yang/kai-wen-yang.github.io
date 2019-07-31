@@ -6,10 +6,10 @@ main:
   #   url: /#education
   - title: "Research"
     url: /#research
-  - title: "Publication"
-    url: /#publication
   - title: "Experience"
     url: /#experience  
+  - title: "Publication"
+    url: /#publication
   - title: "Service"
     url: /#service     
   - title: "CV"

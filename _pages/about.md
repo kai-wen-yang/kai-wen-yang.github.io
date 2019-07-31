@@ -45,6 +45,18 @@ h1, h2, h3, h4, h5, h6 {
 
 <small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of [School of Informatics, Computing, and Engineering (SICE)](https://sice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/), USA, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me). My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from [University of Pittsburgh](https://www.pitt.edu/), USA and my Bachelor's degree in Information Science from [Shanghai International Studies University](http://en.shisu.edu.cn/), China.</small>  
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
+
+<h2 id="experience">Experience</h2> 
+<small>**Industry:**</small> 
+
+* <small>Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
+* <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
+
+<small>**Teaching:**</small> 
+* <small>Instructor, IUB ILS-Z534: Search (Spring/Fall 2018, Spring/Fall 2019)</small>
+* <small>Associate Instructor, IUB ILS-Z534: Search (Fall 2015, Fall 2016, Fall 2017)</small>
+* <small>Associate Instructor, IUB INFO-I590: Topics in Informatics (Summer 2016, Spring/Summer 2017)</small>
+
 <h2 id="publication">Publication</h2> 
 
 * <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711) <small>
@@ -72,16 +84,7 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 * <small>**Zheng Gao**, Patrick C. Shih. Communities of Support: Social Support Discussion in a HIV Online Forum. *International Symposium of Chinese CHI*, 2019. [[PDF]](https://www.researchgate.net/publication/332030838_Communities_of_Support_Social_Support_Exchange_in_a_HIV_Online_Forum) [[Video]](https://www.youtube.com/watch?v=KEOnlWJI4sc&t=896s)</small>
 * <small>Satoshi Tsutsui, **Zheng Gao**, Yuzhuo Wang, Guilin Meng, Ying Ding. A Case Study on Viziometrics: Whats the Role of Western Blots in Alzheimers Disease Literature. *International Conference on Information*, 2018. [[PDF]](https://www.ideals.illinois.edu/bitstream/handle/2142/100249/Tsutsui-Satoshi_20180417_V01.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/apple2373/western_recognize)</small>
 
-<h2 id="experience">Experience</h2> 
-<small>**Industry:**</small> 
 
-* <small>Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
-* <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
-
-<small>**Teaching:**</small> 
-* <small>Instructor, IUB ILS-Z534: Search (Spring/Fall 2018, Spring/Fall 2019)</small>
-* <small>Associate Instructor, IUB ILS-Z534: Search (Fall 2015, Fall 2016, Fall 2017)</small>
-* <small>Associate Instructor, IUB INFO-I590: Topics in Informatics (Summer 2016, Spring/Summer 2017)</small>
 <h2 id="service">Service</h2>  
 
 <small>**Conference Reviewer:**</small>   
