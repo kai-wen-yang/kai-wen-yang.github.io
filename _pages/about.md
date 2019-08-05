@@ -90,7 +90,6 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 <small>**Conference Reviewer:**</small>   
 * <small>The Web Conference (WWW 2018, 2019)</small>  
 * <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
-
 <small>**Journal Reviewer:**</small>  
 * <small>Journal of the Association for Information Science and Technology (JASIST 2018)</small>
 * <small>Social Network Analysis and Mining (SNAM 2018, 2019)</small> 
