@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small> 08/2019:</small> <small style="color:red">I am actively looking for full-time jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation). Feel free to drop me an email!</small>  
+* <small> 08/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and currently looking for full-time scientiest / software development engineer jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation)!</small>  
 * <small> 07/2019: One paper accepted to GECCO 2019!</small>  
 * <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small>  
 * <small> 05/2019: One paper accepted to BMC Bioinformatics!</small> 
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
 
 <small>**Teaching:**</small> 
-* <small>Instructor, IUB ILS-Z534: Search (Spring/Fall 2018, Spring/Fall 2019)</small>
+* <small>Instructor / Adjunct Lecturer, IUB ILS-Z534: Search (Spring/Fall 2018, Spring/Fall 2019)</small>
 * <small>Associate Instructor, IUB ILS-Z534: Search (Fall 2015, Fall 2016, Fall 2017)</small>
 * <small>Associate Instructor, IUB INFO-I590: Topics in Informatics (Summer 2016, Spring/Summer 2017)</small>
 
@@ -92,8 +92,8 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 * <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
 
 <small>**Journal Reviewer:**</small>  
-* <small>Journal of the Association for Information Science and Technology (JASIST)</small>
-* <small>Social Network Analysis and Mining (SNAM)</small> 
+* <small>Journal of the Association for Information Science and Technology (JASIST 2018)</small>
+* <small>Social Network Analysis and Mining (SNAM 2018, 2019)</small> 
 
 <small>**Administrative Service:**</small>    
 * <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington (2016 - 2018) </small>
