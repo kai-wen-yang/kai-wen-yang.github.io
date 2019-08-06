@@ -93,6 +93,7 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 <small>**Journal Reviewer:**</small>  
 * <small>Journal of the Association for Information Science and Technology (JASIST 2018)</small>
 * <small>Social Network Analysis and Mining (SNAM 2018, 2019)</small> 
+* <small>Medical Science Monitor (2019)</small> 
 
 <small>**Administrative Service:**</small>    
 * <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington (2016 - 2018) </small>
