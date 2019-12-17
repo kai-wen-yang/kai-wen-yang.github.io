@@ -37,13 +37,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small> 08/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and currently looking for full-time scientist / software development engineer jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation)!</small>  
+* <small> 10/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and will join Amazon Alexa AI as an applied Scientist! </small>  
 * <small> 07/2019: One paper accepted to GECCO 2019!</small>  
 * <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small>  
 * <small> 05/2019: One paper accepted to BMC Bioinformatics!</small> 
 <h2 id="research"> Research</h2>  
 
-<small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of [School of Informatics, Computing, and Engineering (SICE)](https://sice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/), USA, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me). My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from [University of Pittsburgh](https://www.pitt.edu/), USA and my Bachelor's degree in Information Science from [Shanghai International Studies University](http://en.shisu.edu.cn/), China.</small>  
+<small> Hi, I am Zheng Gao, a fifth-year Ph.D. candidate of [School of Informatics, Computing, and Engineering (SICE)](https://sice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/), USA, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me). My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from [University of Pittsburgh](https://www.pitt.edu/), USA and my Bachelor's degree in Information Science from [Shanghai International Studies University](http://en.shisu.edu.cn/), China.</small>  
 <small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 
 <h2 id="experience">Experience</h2> 
@@ -88,11 +88,12 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 <h2 id="service">Service</h2>  
 
 <small>**Conference Reviewer:**</small>   
-* <small>The Web Conference (WWW 2018, 2019)</small>  
+* <small>The Web Conference (WWW 2018, 2019, 2020)</small>  
 * <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
 
 <small>**Journal Reviewer:**</small>  
 * <small>Journal of the Association for Information Science and Technology (JASIST 2018)</small>
+* <small>BMC Bioinformatics (2019)</small> 
 * <small>Social Network Analysis and Mining (SNAM 2018, 2019)</small> 
 * <small>Medical Science Monitor (2019)</small> 
 
