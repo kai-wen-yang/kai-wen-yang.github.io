@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <small>**Teaching:**</small> 
 * <small>Instructor / Adjunct Lecturer, IUB ILS-Z534: Search (Spring/Fall 2018, Spring/Fall 2019)</small>
-* <small>Associate Instructor, IUB ILS-Z534: Search (Fall 2015, Fall 2016, Fall 2017)</small>
+* <small>Associate Instructor, IUB ILS-Z534: Search (Fall 2015, Fall 2016, Fall 2017, Spring 2020)</small>
 * <small>Associate Instructor, IUB INFO-I590: Topics in Informatics (Summer 2016, Spring/Summer 2017)</small>
 
 <h2 id="publication">Publication</h2> 
