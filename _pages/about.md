@@ -94,7 +94,7 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 <small>**Journal Reviewer:**</small>  
 * <small>Journal of the Association for Information Science and Technology (JASIST 2018)</small>
 * <small>BMC Bioinformatics (2019)</small> 
-* <small>Social Network Analysis and Mining (SNAM 2018, 2019)</small> 
+* <small>Social Network Analysis and Mining (SNAM 2018, 2019, 2020)</small> 
 * <small>Medical Science Monitor (2019)</small> 
 
 <small>**Administrative Service:**</small>    
