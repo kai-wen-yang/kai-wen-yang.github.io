@@ -37,9 +37,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small> 01/2020: One paper accepted to ECAI!</small> 
-* <small> 01/2020: One paper accepted to WWW!</small> 
-* <small> 10/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and will join Amazon Alexa AI as an applied Scientist! </small>  
+* <small> 04/2020: One paper is accepted by SIGIR!</small> 
+* <small> 01/2020: One paper is accepted by ECAI!</small> 
+* <small> 01/2020: One paper is accepted by WWW!</small> 
+<!-- * <small> 10/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and will join Amazon Alexa AI as an applied Scientist! </small>   -->
 <h2 id="research"> Research</h2>  
 
 <small> Hi, I am Zheng Gao, a fifth-year Ph.D. candidate of [School of Informatics, Computing, and Engineering (SICE)](https://sice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/), USA, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me). My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from [University of Pittsburgh](https://www.pitt.edu/), USA and my Bachelor's degree in Information Science from [Shanghai International Studies University](http://en.shisu.edu.cn/), China.</small>  
@@ -57,10 +58,11 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Associate Instructor, IUB INFO-I590: Topics in Informatics (Summer 2016, Spring/Summer 2017)</small>
 
 <h2 id="publication">Publication</h2> 
-* <small>**Zheng Gao**, Lujun Zhao, Heng Huang, Hongsong Li, Changlong Sun, Luo Si, Xiaozhong Liu. Behavior based Dynamic Summarization on Product Aspects via Reinforcement Neighbour Selection. *European Conference on Artificial Intelligence (ECAI)*, 2020.<small>
+* <small>**Zheng Gao**, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu. Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning. *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2020.</small>
+* <small>**Zheng Gao**, Lujun Zhao, Heng Huang, Hongsong Li, Changlong Sun, Luo Si, Xiaozhong Liu. Behavior based Dynamic Summarization on Product Aspects via Reinforcement Neighbour Selection. *European Conference on Artificial Intelligence (ECAI)*, 2020.</small>
 * <small>Zhuoren Jiang, **Zheng Gao**, Jinjiong Lan, Hongxia Yang, Yao Lu and Xiaozhong Liu. Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding. *The Web Conference (WWW)*, 2020.
-* <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711) <small>
-* <small>**Zheng Gao**, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation Learning Using Edge Semantics for Biomedical Knowledge Discovery. *BMC Bioinformatics*, 2019. (impact factor = 2.511). [[PDF]](https://link.springer.com/article/10.1186/s12859-019-2914-2) [[Code]](https://github.com/RoyZhengGao/edge2vec)<small>
+* <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711)</small>
+* <small>**Zheng Gao**, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation Learning Using Edge Semantics for Biomedical Knowledge Discovery. *BMC Bioinformatics*, 2019. (impact factor = 2.511). [[PDF]](https://link.springer.com/article/10.1186/s12859-019-2914-2) [[Code]](https://github.com/RoyZhengGao/edge2vec)</small>
 * <small>Yongzhen Wang, Xiaozhong Liu, **Zheng Gao**. Neural Related Work Summarization with a Joint
 Context-driven Attention Mechanism. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2018. [[PDF]](https://www.aclweb.org/anthology/papers/D/D18/D18-1204/)</small>
 * <small>**Zheng Gao**, Lin Guo, Chi Ma, Xiao Ma, Kai Sun, Hang Xiang, Xiaoqiang Zhu, Hongsong Li,
