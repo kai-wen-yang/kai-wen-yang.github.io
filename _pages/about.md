@@ -37,18 +37,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small> 04/2020: One paper is accepted by SIGIR!</small> 
-* <small> 01/2020: One paper is accepted by ECAI!</small> 
-* <small> 01/2020: One paper is accepted by WWW!</small> 
+* <small> 06/2020: Start full-time job in Amazon Alexa AI~</small>  
 <!-- * <small> 10/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and will join Amazon Alexa AI as an applied Scientist! </small>   -->
 <h2 id="research"> Research</h2>  
 
-<small> Hi, I am Zheng Gao, a fifth-year Ph.D. candidate of [School of Informatics, Computing, and Engineering (SICE)](https://sice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/), USA, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me). My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from [University of Pittsburgh](https://www.pitt.edu/), USA and my Bachelor's degree in Information Science from [Shanghai International Studies University](http://en.shisu.edu.cn/), China.</small>  
-<small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
+<small> Hi, I am Zheng Gao, an applied scientist in Amazon Alexa AI. My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
+
+<h2 id="education"> Education</h2>  
+* <small>Ph.D. in Information Science, Indiana University Bloomington, United States, 2015-2020</small> 
+* <small>M.S. in Information Science, University of Pittsburgh, United States, 2013-2015</small>  
+* <small>B.M. in Information Management and System, Shanghai International Studies University, China, 2009-2013</small> 
 
 <h2 id="experience">Experience</h2> 
 <small>**Industry:**</small> 
-
+* <small>Applied Scientist II, Amazon Alexa AI (06/2020 - now)</small> 
 * <small>Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
 
@@ -66,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Yongzhen Wang, Xiaozhong Liu, **Zheng Gao**. Neural Related Work Summarization with a Joint
 Context-driven Attention Mechanism. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2018. [[PDF]](https://www.aclweb.org/anthology/papers/D/D18/D18-1204/)</small>
 * <small>**Zheng Gao**, Lin Guo, Chi Ma, Xiao Ma, Kai Sun, Hang Xiang, Xiaoqiang Zhu, Hongsong Li,
-Xiaozhong Liu. AMAD: Adversarial Multiscale Anomaly Detection on High-Dimensional and Time-Evolving Categorical Data. *Deep Learning Practice for High-Dimensional Sparse Data Workshop at ACM SIGKDD Conference on Knowledge Discovery and Data Mining (DLP-KDD)*, 2019. [[PDF]](https://arxiv.org/pdf/1907.06582.pdf) [[Video]](https://www.youtube.com/watch?v=G_evEf3DG8k&t=357s) [[Slides]](https://drive.google.com/file/d/1m8setAj2JXo4WuInI_NP7TsvLRs_ocjt/view?usp=sharing)</small>
+Xiaozhong Liu. AMAD: Adversarial Multiscale Anomaly Detection on High-Dimensional and Time-Evolving Categorical Data. *Deep Learning Practice for High-Dimensional Sparse Data Workshop at ACM SIGKDD Conference on Knowledge Discovery and Data Mining (DLP-KDD)*, 2019. [[PDF]](https://arxiv.org/pdf/1907.06582.pdf) [[Video]](https://www.youtube.com/watch?v=G_evEf3DG8k&t=357s) [[Slides]](/files/dlp-kdd.pptx)</small>
 * <small>Zizhe Gao, **Zheng Gao**, Heng Huang, Zhuoren Jiang, Yuliang Yan. An End-to-end Model of Predicting Diverse Ranking On Heterogeneous Feeds. *eCOM Workshop at ACM SIGIR Conference on Research and Development in Information Retrieval (eCom-SIGIR)*, 2018. [[PDF]](http://ceur-ws.org/Vol-2319/paper13.pdf)</small>
 * <small>Zhuoren Jiang, Liangcai Gao, Ke Yuan, **Zheng Gao**, Zhi Tang, Xiaozhong Liu. Mathematics Content Understanding for Cyberlearning via Formula Evolution Map. *ACM International Conference on
 Information and Knowledge Management (CIKM)*, 2018. [[PDF]](https://dl.acm.org/citation.cfm?id=3271694) [[Code]](https://github.com/GraphEmbedding/FEM)</small>
@@ -91,11 +93,12 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 
 <small>**Conference Reviewer:**</small>   
 * <small>The Web Conference (WWW 2018, 2019, 2020)</small>  
-* <small>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
+* <small>ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
+* <small>ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops (DLP-KDD 2020,IWKG-KDD 2020)</small> 
 
 <small>**Journal Reviewer:**</small>  
-* <small>Journal of the Association for Information Science and Technology (JASIST 2018)</small>
-* <small>BMC Bioinformatics (2019)</small> 
+* <small>Journal of the Association for Information Science and Technology (JASIST 2018, 2019)</small>
+* <small>BMC Bioinformatics (2019, 2020)</small> 
 * <small>Social Network Analysis and Mining (SNAM 2018, 2019, 2020)</small> 
 * <small>Medical Science Monitor (2019)</small> 
 
