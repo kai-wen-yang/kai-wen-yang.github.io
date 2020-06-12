@@ -4,8 +4,8 @@ main:
   #   url: /cv/
   # - title: "Education"
   #   url: /#education
-  - title: "Bio"
-    url: /#bio
+  - title: "Biography"
+    url: /#biography
   - title: "Education"
     url: /#education
   - title: "Work"
