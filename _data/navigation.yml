@@ -4,12 +4,12 @@ main:
   #   url: /cv/
   # - title: "Education"
   #   url: /#education
-  - title: "Research"
-    url: /#research
+  - title: "Bio"
+    url: /#bio
   - title: "Education"
     url: /#education
-  - title: "Experience"
-    url: /#experience  
+  - title: "Work"
+    url: /#work  
   - title: "Publication"
     url: /#publication
   - title: "Service"
