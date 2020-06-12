@@ -37,24 +37,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small> 06/2020: Start full-time job in Amazon Alexa AI~</small>  
+* <small style="color:red"> 06/2020: Start my full-time job as an applied scientiest at Amazon Alexa AI ~~</small>  
 <!-- * <small> 10/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and will join Amazon Alexa AI as an applied Scientist! </small>   -->
 <h2 id="research"> Research</h2>  
 
 <small> Hi, I am Zheng Gao, an applied scientist in Amazon Alexa AI. My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 
 <h2 id="education"> Education</h2>  
-* <small>Ph.D. in Information Science, Indiana University Bloomington, United States, 2015-2020</small> 
-* <small>M.S. in Information Science, University of Pittsburgh, United States, 2013-2015</small>  
-* <small>B.M. in Information Management and System, Shanghai International Studies University, China, 2009-2013</small> 
+* <small>**Ph.D.** in Information Science, Indiana University Bloomington, United States (2015-2020)</small> 
+* <small>**M.S.** in Information Science, University of Pittsburgh, United States (2013-2015)</small>  
+* <small>**B.M.** in Information Management and System, Shanghai International Studies University, China (2009-2013)</small> 
 
 <h2 id="experience">Experience</h2> 
-<small>**Industry:**</small> 
+**Industry:**
 * <small>Applied Scientist II, Amazon Alexa AI (06/2020 - now)</small> 
 * <small>Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
 
-<small>**Teaching:**</small> 
+**Teaching:**
 * <small>Instructor / Adjunct Lecturer, IUB ILS-Z534: Search (Spring/Fall 2018, Spring/Fall 2019)</small>
 * <small>Associate Instructor, IUB ILS-Z534: Search (Fall 2015, Fall 2016, Fall 2017, Spring 2020)</small>
 * <small>Associate Instructor, IUB INFO-I590: Topics in Informatics (Summer 2016, Spring/Summer 2017)</small>
