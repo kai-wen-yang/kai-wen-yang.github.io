@@ -45,11 +45,11 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="education"> Education</h2>  
 * <small>**Ph.D.** in Information Science <br>
-    Indiana University Bloomington, United States (2015-2020)</small> 
+    Indiana University Bloomington, United States (2015 - 2020)</small> 
 * <small>**M.S.** in Information Science  
-    University of Pittsburgh, United States (2013-2015)</small>  
+    University of Pittsburgh, United States (2013 - 2015)</small>  
 * <small>**B.M.** in Information Management and System  
-    Shanghai International Studies University, China (2009-2013)</small> 
+    Shanghai International Studies University, China (2009 - 2013)</small> 
 
 <h2 id="work">Work</h2> 
 * <small>Applied Scientist II, Amazon Alexa AI (06/2020 - now)</small> 
