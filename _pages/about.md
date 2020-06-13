@@ -91,7 +91,7 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 <small>**Conference Reviewer:**</small>   
 * <small>The Web Conference (WWW 2018, 2019, 2020)</small>  
 * <small>ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
-* <small>ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops (DLP-KDD 2020,IWKG-KDD 2020)</small> 
+* <small>ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops (DLP-KDD 2020, IWKG-KDD 2020)</small> 
 
 <small>**Journal Reviewer:**</small>  
 * <small>Journal of the Association for Information Science and Technology (JASIST 2018, 2019)</small>
