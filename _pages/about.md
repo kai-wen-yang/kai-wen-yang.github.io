@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>**B.M.** in Information Management and System  
     Shanghai International Studies University, China (2009 - 2013)</small> 
 
-<h2 id="work">Work</h2> 
+<h2 id="experience">Experience</h2> 
 * <small>Applied Scientist II, Amazon Alexa AI (06/2020 - now)</small> 
 * <small>Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>

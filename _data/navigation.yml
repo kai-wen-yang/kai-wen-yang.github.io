@@ -8,8 +8,8 @@ main:
     url: /#biography
   - title: "Education"
     url: /#education
-  - title: "Work"
-    url: /#work  
+  - title: "Experience"
+    url: /#experience  
   - title: "Publication"
     url: /#publication
   - title: "Service"
