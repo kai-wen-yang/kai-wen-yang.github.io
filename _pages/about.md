@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 <!-- * <small> 10/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and will join Amazon Alexa AI as an applied Scientist! </small>   -->
 <h2 id="biography"> Biography</h2>  
 
-<small> Hi, I am Zheng Gao, currently working as an applied scientist at Amazon Alexa AI. My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
+<small> Hi, I am Zheng Gao, an Applied Scientist at Amazon Alexa AI. I received my Ph.D. degree in Information Science and minor in Computer Science from Indiana University Bloomington, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) in 2020. My research interests are primarily in the area of **Graph Mining** and **Natural Language Processing** (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 
 <h2 id="education"> Education</h2>  
 * <small>**Ph.D.** in Information Science<br>
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="publication">Publication</h2> 
 * <small>**Zheng Gao**, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu. Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning. *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2020.</small>
 * <small>**Zheng Gao**, Lujun Zhao, Heng Huang, Hongsong Li, Changlong Sun, Luo Si, Xiaozhong Liu. Behavior based Dynamic Summarization on Product Aspects via Reinforcement Neighbour Selection. *European Conference on Artificial Intelligence (ECAI)*, 2020.</small>
-* <small>Zhuoren Jiang, **Zheng Gao**, Jinjiong Lan, Hongxia Yang, Yao Lu and Xiaozhong Liu. Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding. *The Web Conference (WWW)*, 2020.
+* <small>Zhuoren Jiang, **Zheng Gao**, Jinjiong Lan, Hongxia Yang, Yao Lu and Xiaozhong Liu. Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding. *The Web Conference (WWW)*, 2020. [[PDF]](https://dl.acm.org/doi/10.1145/3366423.3380230)</small>
 * <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711)</small>
 * <small>**Zheng Gao**, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation Learning Using Edge Semantics for Biomedical Knowledge Discovery. *BMC Bioinformatics*, 2019. (impact factor = 2.511). [[PDF]](https://link.springer.com/article/10.1186/s12859-019-2914-2) [[Code]](https://github.com/RoyZhengGao/edge2vec)</small>
 * <small>Yongzhen Wang, Xiaozhong Liu, **Zheng Gao**. Neural Related Work Summarization with a Joint
