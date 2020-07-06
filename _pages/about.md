@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
 
 <h2 id="publication">Publication</h2> 
-* <small>**Zheng Gao**, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu. Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning. *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2020. [[PDF]](/files/SIGIR_2020_Cross_Graph.pdf) [[Video]](https://www.youtube.com/watch?v=lq9zqshEqaA&t=38s) [[Slides]](/files/sigir2020.pptx)</small>
+* <small>**Zheng Gao**, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu. Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning. *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2020. [[PDF]](/files/SIGIR_2020_Cross_Graph.pdf) [[Video]](https://www.youtube.com/watch?v=lq9zqshEqaA) [[Slides]](/files/sigir2020.pptx)</small>
 * <small>**Zheng Gao**, Lujun Zhao, Heng Huang, Hongsong Li, Changlong Sun, Luo Si, Xiaozhong Liu. Behavior based Dynamic Summarization on Product Aspects via Reinforcement Neighbour Selection. *European Conference on Artificial Intelligence (ECAI)*, 2020. [[PDF]](http://ecai2020.eu/papers/383_paper.pdf)</small>
 * <small>Zhuoren Jiang, **Zheng Gao**, Jinjiong Lan, Hongxia Yang, Yao Lu, Xiaozhong Liu. Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding. *The Web Conference (WWW)*, 2020. [[PDF]](https://dl.acm.org/doi/10.1145/3366423.3380230)</small>
 * <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711)</small>
