@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>06/2020:</small> <small style="color:red">Start my full-time job as an applied scientiest at Amazon Alexa AI ~</small>  
+* <small>06/2020:</small> <small style="color:red">Start my full-time job as an applied scientist at Amazon Alexa AI ~</small>  
 <!-- * <small> 10/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and will join Amazon Alexa AI as an applied Scientist! </small>   -->
 <h2 id="biography"> Biography</h2>  
 
@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>**Zheng Gao**, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu. Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning. *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2020. [[PDF]](/files/SIGIR_2020_Cross_Graph.pdf) [[Video]](https://www.youtube.com/watch?v=lq9zqshEqaA) [[Slides]](/files/sigir2020.pptx)</small>
 * <small>**Zheng Gao**, Lujun Zhao, Heng Huang, Hongsong Li, Changlong Sun, Luo Si, Xiaozhong Liu. Behavior based Dynamic Summarization on Product Aspects via Reinforcement Neighbour Selection. *European Conference on Artificial Intelligence (ECAI)*, 2020. [[PDF]](http://ecai2020.eu/papers/383_paper.pdf)</small>
 * <small>Zhuoren Jiang, **Zheng Gao**, Jinjiong Lan, Hongxia Yang, Yao Lu, Xiaozhong Liu. Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding. *The Web Conference (WWW)*, 2020. [[PDF]](https://dl.acm.org/doi/10.1145/3366423.3380230)</small>
-* <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Effcient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711)</small>
+* <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Efficient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711)</small>
 * <small>**Zheng Gao**, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation Learning Using Edge Semantics for Biomedical Knowledge Discovery. *BMC Bioinformatics*, 2019. (impact factor = 2.511). [[PDF]](https://link.springer.com/article/10.1186/s12859-019-2914-2) [[Code]](https://github.com/RoyZhengGao/edge2vec)</small>
 * <small>Yongzhen Wang, Xiaozhong Liu, **Zheng Gao**. Neural Related Work Summarization with a Joint
 Context-driven Attention Mechanism. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2018. [[PDF]](https://www.aclweb.org/anthology/papers/D/D18/D18-1204/)</small>
@@ -84,7 +84,7 @@ Examination of Community-based and Context-based Information Diffusion in Twitte
 * <small>**Zheng Gao**, Rui Bi. University of Pittsburgh at TREC 2014 Microblog Track. *Text REtrieval
 Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618725.pdf)</small>
 * <small>**Zheng Gao**, Patrick C. Shih. Communities of Support: Social Support Discussion in a HIV Online Forum. *International Symposium of Chinese CHI*, 2019. [[PDF]](https://www.researchgate.net/publication/332030838_Communities_of_Support_Social_Support_Exchange_in_a_HIV_Online_Forum) [[Video]](https://www.youtube.com/watch?v=KEOnlWJI4sc&t=896s)</small>
-* <small>Satoshi Tsutsui, **Zheng Gao**, Yuzhuo Wang, Guilin Meng, Ying Ding. A Case Study on Viziometrics: Whats the Role of Western Blots in Alzheimers Disease Literature. *International Conference on Information*, 2018. [[PDF]](https://www.ideals.illinois.edu/bitstream/handle/2142/100249/Tsutsui-Satoshi_20180417_V01.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/apple2373/western_recognize)</small>
+* <small>Satoshi Tsutsui, **Zheng Gao**, Yuzhuo Wang, Guilin Meng, Ying Ding. A Case Study on Viziometrics: What's the Role of Western Blots in Alzheimers Disease Literature. *International Conference on Information*, 2018. [[PDF]](https://www.ideals.illinois.edu/bitstream/handle/2142/100249/Tsutsui-Satoshi_20180417_V01.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/apple2373/western_recognize)</small>
 
 
 <h2 id="service">Service</h2>  
