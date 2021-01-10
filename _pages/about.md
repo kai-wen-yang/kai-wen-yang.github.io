@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
 
 <h2 id="publication">Publication</h2> 
-* <small>**Zheng Gao**, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu. Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning. *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2020. [[PDF]](/files/SIGIR_2020_Cross_Graph.pdf) [[Video]](https://www.youtube.com/watch?v=lq9zqshEqaA) [[Slides]](/files/sigir2020.pptx)</small>
+* <small>**Zheng Gao**, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu. Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning. *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2020. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3397271.3401055) [[Video]](https://www.youtube.com/watch?v=lq9zqshEqaA) [[Slides]](/files/sigir2020.pptx)</small>
 * <small>**Zheng Gao**, Lujun Zhao, Heng Huang, Hongsong Li, Changlong Sun, Luo Si, Xiaozhong Liu. Behavior based Dynamic Summarization on Product Aspects via Reinforcement Neighbour Selection. *European Conference on Artificial Intelligence (ECAI)*, 2020. [[PDF]](http://ecai2020.eu/papers/383_paper.pdf) [[Video]](https://www.youtube.com/watch?v=Y4sp9kK5NGk) [[Slides]](/files/ecai2020.pptx)</small>
 * <small>Zhuoren Jiang, **Zheng Gao**, Jinjiong Lan, Hongxia Yang, Yao Lu, Xiaozhong Liu. Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding. *The Web Conference (WWW)*, 2020. [[PDF]](https://dl.acm.org/doi/10.1145/3366423.3380230)</small>
 * <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Efficient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711)</small>
@@ -91,11 +91,13 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 
 <small>**Conference Reviewer:**</small>   
 * <small>The Web Conference (WWW 2018, 2019, 2020)</small>  
+* <small>IEEE International Conference on Big Data (BigData 2020)</small>  
 * <small>ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
 * <small>ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops (DLP-KDD 2020, IWKG-KDD 2020)</small> 
 
 <small>**Journal Reviewer:**</small>  
 * <small>Journal of the Association for Information Science and Technology (JASIST 2018, 2019)</small>
+* <small>PeerJ Computer Science (2020)</small> 
 * <small>PLoS ONE (2020)</small> 
 * <small>BMC Bioinformatics (2019, 2020)</small> 
 * <small>Social Network Analysis and Mining (SNAM 2018, 2019, 2020)</small> 
