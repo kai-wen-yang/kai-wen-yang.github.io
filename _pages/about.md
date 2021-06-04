@@ -37,8 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>06/2020:</small> <small style="color:red">Start my full-time job as an applied scientist at Amazon Alexa AI ~</small>  
-<!-- * <small> 10/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and will join Amazon Alexa AI as an applied Scientist! </small>   -->
+* <small>06/2021:</small> <small style="color:red">Our paper "Paraphrase Label Alignment for Voice Application Retrieval in SpokenLanguage Understanding" is accepted by Interspeech 2021 ~</small>   
 <h2 id="biography"> Biography</h2>  
 
 <small> Hi, I am Zheng Gao, an Applied Scientist at Amazon Alexa AI. I received my Ph.D. degree in Information Science and minor in Computer Science from Indiana University Bloomington, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) in 2020. My research interests are primarily in the area of **Graph Mining** and **Natural Language Processing** (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
