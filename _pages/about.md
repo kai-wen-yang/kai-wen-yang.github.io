@@ -37,8 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>08/2021:</small> <small style="color:red">Our paper "Two-stage Voice Application Recommender System for Unhandled Utterance in Intelligent Personal Assistant" is accepted by 2021 KDD International Workshop on Industrial Recommendation Systems ~</small> 
-* <small>07/2021:</small> <small style="color:red">Our paper "Graphire: Novel Intent Discovery with Pretraining on Prior Knowledge using Contrastive Learning" is accepted by KDD Workshop on Pretraining: Algorithms, Architectures, and Applications (Pretrain@KDD 2021) ~ ~</small> 
+* <small>08/2021:</small> <small style="color:red">Our paper "Two-stage Voice Application Recommender System for Unhandled Utterance in Intelligent Personal Assistant" and "Graphire: Novel Intent Discovery with Pretraining on Prior Knowledge using Contrastive Learning" are accepted by 2021 KDD Workshops ~</small> 
 * <small>06/2021:</small> <small style="color:red">Our paper "Paraphrase Label Alignment for Voice Application Retrieval in SpokenLanguage Understanding" is accepted by Interspeech 2021 ~</small>   
 <h2 id="biography"> Biography</h2>  
 
