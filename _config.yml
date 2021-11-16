@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kaiwen Yang"
 title_separator          : "-"
 name                     : &name "Kaiwen Yang"
-description              : &description "Student"
+description              : &description "M.S Student"
 url                      : https://kai-wen-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kai-wen-yang.github.io"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Kaiwen Yang"
+  github           : "kai-wen-yang"
   google_plus      :
   keybase          :
   instagram        :
