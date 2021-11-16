@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng Gao"
+title                    : "Kaiwen Yang"
 title_separator          : "-"
-name                     : &name "Zheng Gao"
-description              : &description "Applied scientist at Amazon Alexa AI"
-url                      : https://royzhenggao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kaiwen Yang"
+description              : &description "Student"
+url                      : https://kai-wen-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "royzhenggao.github.io"
+repository               : "kai-wen-yang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Gao (高正)"
+  name             : "Kaiwen Yang (杨楷文)"
   avatar           : "kevin.png"
-  bio              : "Applied scientist at Amazon Alexa AI"
-  location         : "Seattle, WA, USA"
+  bio              : "Student"
+  location         : "Heifei, China"
   employer         :  
-  googlescholar    : "https://scholar.google.com/citations?user=C8M7-1YAAAAJ&hl=en"
-  email            : "zhenggao@amazon.com"
+  googlescholar    : "https://scholar.google.com/"
+  email            : "kwyang@mail.ustc.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RoyZhengGao"
+  github           : "Kaiwen Yang"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "zheng-gao-351b738a/"
+  linkedin         : 
   orcid            :  
   pinterest        :
   soundcloud       :
