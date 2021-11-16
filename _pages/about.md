@@ -55,4 +55,4 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="award"> Award</h2> 
 
 * <small>National 1st place in CUMCM (2017) </small>
-* <small>National Scholarship (2017) </small>
+* <small>National Scholarship (2016) </small>
