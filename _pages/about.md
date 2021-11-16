@@ -3,9 +3,9 @@
 <small> Hi, I am Kaiwen Yang, a master student at USTC. I received my Bacher degree in Xidian University in 2019.</small>
 
 <h2 id="education"> Education</h2>  
-* <small>**M.S.** in EE@
+* <small>**M.S.** in EE
     University of Science and Technology of China, China (2019 - now)</small>  
-* <small>**B.E.** in EE@
+* <small>**B.E.** in EE
    Xidian University, China (2015 - 2019)</small> 
 
 
