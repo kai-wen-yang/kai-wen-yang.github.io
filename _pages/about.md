@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>09/2021:</small> <small style="color:red">Our paper "Class-Disentanglement and Applications in Adversarial Detection and Defense" is accepted by NeurIPS 2021 ~</small> 
 <h2 id="biography"> Biography</h2>  
 
-<small> Hi, I am Kaiwen Yang, a master student at USTC. I received my Bacher degree in Xidian University in 2019.</small>
+<small> Hi, I am Kaiwen Yang, a master student at USTC. I received my Bachelor's degree in Xidian University in 2019.</small>
 
 <h2 id="education"> Education</h2>  
 * <small>**M.S.** in EE@
