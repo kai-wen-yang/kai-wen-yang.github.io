@@ -40,12 +40,12 @@ h1, h2, h3, h4, h5, h6 {
 * <small>09/2021:</small> <small style="color:red">Our paper "Class-Disentanglement and Applications in Adversarial Detection and Defense" is accepted by NeurIPS 2021 ~</small> 
 <h2 id="biography"> Biography</h2>  
 
-<small> Hi, I am Kaiwen Yang, a master student at USTC. I received my bachelor's degree in Xidian University in 2019.</small>
+<small> Hi, I am Kaiwen Yang, a master student in Department of Electronic Engineering and Information Science at USTC. I received my bachelor's degree from School of Electronic Engineering at Xidian University in 2019. My research interests are in representation learning, adversarial learning and semi/self-supervised learning.</small>
 
 <h2 id="education"> Education</h2>  
-* <small>**M.S.** in EE@
+* <small>**M.S.** in Department of Electronic Engineering and Information Science@
     University of Science and Technology of China, China (2019 - now)</small>  
-* <small>**B.E.** in EE@
+* <small>**B.E.** in School of Electronic Engineering@
    Xidian University, China (2015 - 2019)</small> 
 
 
