@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 <h2 id="publication">Publication</h2> 
-* <small>**Kaiwen Yang**, Tianyi Zhou, Yonggang zhang, Xinmei Tian, Dacheng Tao. Class-Disentanglement and Applications in Adversarial Detection and Defense. ***NeurIPS***, 2021. 
+* <small>**Kaiwen Yang**, Tianyi Zhou, Yonggang zhang, Xinmei Tian, Dacheng Tao. Class-Disentanglement and Applications in Adversarial Detection and Defense. ***NeurIPS***, *2021*. 
 	
 <h2 id="award"> Award</h2> 
 
