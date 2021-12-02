@@ -57,4 +57,4 @@ h1, h2, h3, h4, h5, h6 {
 * <small>National 1st place in CUMCM (2017) </small>
 * <small>National Scholarship (2016) </small>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HbVX3egvi54ZREtzaPFgjN0cJebFsDjwXflmtsApCQI"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=HbVX3egvi54ZREtzaPFgjN0cJebFsDjwXflmtsApCQI'></script>
