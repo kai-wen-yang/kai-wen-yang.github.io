@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 <h2 id="publication">Selected Publication</h2> 
-* <small>**Kaiwen Yang**, Tianyi Zhou, Yonggang zhang, Xinmei Tian, Dacheng Tao. Class-Disentanglement and Applications in Adversarial Detection and Defense. ***NeurIPS***, *2021*. [[paper]](https://openreview.net/pdf?id=jFMzBeLyTc0) [[code]](https://github.com/kai-wen-yang/CD-VAE)</small>
+* <small>**Kaiwen Yang**, Tianyi Zhou, Yonggang zhang, Xinmei Tian, Dacheng Tao. Class-Disentanglement and Applications in Adversarial Detection and Defense. ***NeurIPS***, *2021*. [[Pdf]](https://openreview.net/pdf?id=jFMzBeLyTc0) [[Appendix]](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Supplemental.pdf) [[Code]](https://github.com/kai-wen-yang/CD-VAE)[[Slides]](https://neurips.cc/media/neurips-2021/Slides/26667.pdf) </small>
 	
 <h2 id="award"> Award</h2> 
 
