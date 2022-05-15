@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>09/2021:</small> <small style="color:red">Our paper "Class-Disentanglement and Applications in Adversarial Detection and Defense" is accepted by ICML 2022 ~</small> 
+* <small>05/2022:</small> <small style="color:red">Our paper "Class-Disentanglement and Applications in Adversarial Detection and Defense" is accepted by ICML 2022 ~</small> 
 * <small>09/2021:</small> <small style="color:red">Our paper "Identity-Disentangled Adversarial Augmentation for Self-supervised Learning" is accepted by NeurIPS 2021 ~</small> 
 <h2 id="biography"> Biography</h2>  
 
