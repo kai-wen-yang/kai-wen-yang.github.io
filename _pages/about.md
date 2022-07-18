@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 <h2 id="publication">Selected Publication</h2> 
-* <small>**Kaiwen Yang**, Tianyi Zhou, Xinmei Tian, Dacheng Tao. Identity-Disentangled Adversarial Augmentation for Self-supervised Learning. ***ICML***, *2022*. [[Pdf]](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf) [[Code]](https://github.com/kai-wen-yang/IDAA) 
+* <small>**Kaiwen Yang**, Tianyi Zhou, Xinmei Tian, Dacheng Tao. Identity-Disentangled Adversarial Augmentation for Self-supervised Learning. ***ICML***, *2022*. [[Pdf]](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf) [[Code]](https://github.com/kai-wen-yang/IDAA) [[Slides]](https://icml.cc/media/icml-2022/Slides/17860.pdf) [[Poster]](https://icml.cc/media/PosterPDFs/ICML%202022/766d856ef1a6b02f93d894415e6bfa0e.png)
 * <small>**Kaiwen Yang**, Tianyi Zhou, Yonggang zhang, Xinmei Tian, Dacheng Tao. Class-Disentanglement and Applications in Adversarial Detection and Defense. ***NeurIPS***, *2021*. [[Pdf]](https://openreview.net/pdf?id=jFMzBeLyTc0) [[Appendix]](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Supplemental.pdf) [[Code]](https://github.com/kai-wen-yang/CD-VAE) [[Slides]](https://neurips.cc/media/neurips-2021/Slides/26667.pdf) </small>
 	
 <h2 id="award"> Award</h2> 
