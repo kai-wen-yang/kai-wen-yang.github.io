@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kaiwen Yang"
+title: "New"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
