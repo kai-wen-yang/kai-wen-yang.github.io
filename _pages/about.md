@@ -45,9 +45,10 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="education"> Education</h2>  
 * <small>**M.S.** in Department of Electronic Engineering and Information Science@
-    University of Science and Technology of China, China (2019 - now)</small>  
+	
+    University of Science and Technology of China, 2019 - now</small>  
 * <small>**B.E.** in School of Electronic Engineering@
-   Xidian University, China (2015 - 2019)</small> 
+   Xidian University, 2015 - 2019</small> 
 
 
 <h2 id="publication">Selected Publication</h2> 
