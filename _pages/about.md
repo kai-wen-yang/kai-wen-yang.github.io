@@ -44,8 +44,9 @@ h1, h2, h3, h4, h5, h6 {
 <small> Hi, I am Kaiwen Yang, a master student in Department of Electronic Engineering and Information Science at USTC. I received my bachelor's degree from School of Electronic Engineering at Xidian University in 2019. My research interests are in representation learning, adversarial learning and semi/self-supervised learning.</small>
 
 <h2 id="education"> Education</h2>  
-* <small>**M.S.** in Department of Electronic Engineering and Information Science//@	
+* <small>**M.S.** in Department of Electronic Engineering and Information Science@	
     University of Science and Technology of China, 2019 - now</small>  
+  <small>20156-1019<small>  
 * <small>**B.E.** in School of Electronic Engineering@
    Xidian University, 2015 - 2019</small> 
 
