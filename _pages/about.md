@@ -37,18 +37,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>05/2022:</small> <small style="color:red">Our paper is accepted by ICML 2022 ~</small> 
-* <small>09/2021:</small> <small style="color:red">Our paper is accepted by NeurIPS 2021 ~</small> 
+* <small>10/2022:</small> <small style="color:red">Awarded the National Scholarship for Doctoral Students (¥30000)</small> 
+* <small>09/2022:</small> <small style="color:red">1 paper is accepted by NeurIPS 2022 </small> 
+* <small>05/2022:</small> <small style="color:red">1 paper is accepted by ICML 2022 </small> 
+* <small>09/2021:</small> <small style="color:red">1 paper is accepted by NeurIPS 2021 </small> 
 <h2 id="biography"> Biography</h2>  
 
 <small> Hi, I am Kaiwen Yang, a master student in Department of Electronic Engineering and Information Science at USTC. I received my bachelor's degree from School of Electronic Engineering at Xidian University in 2019. My research interests are in representation learning, adversarial learning and semi/self-supervised learning.</small>
 
-<h2 id="education"> Education</h2>  
-* <small>**M.S.** in Department of Electronic Engineering and Information Science@	
-    University of Science and Technology of China, 2019 - now</small>  
-  <small>20156-1019<small>  
-* <small>**B.E.** in School of Electronic Engineering@
-   Xidian University, 2015 - 2019</small> 
+<h2 id="education"> Education</h2> 
+* <small>**Ph.D.** 2022-present </small>  	
+  <small>University of Science and Technology of China<small>   
+* <small>**M.S.** 2019-2022 </small>  	
+  <small>University of Science and Technology of China<small>   
+* <small>**B.E.** 2015-2019<small>  
+  <small>Xidian University</small> 
 
 
 <h2 id="publication">Selected Publication</h2> 
@@ -56,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>**Kaiwen Yang**, Tianyi Zhou, Yonggang zhang, Xinmei Tian, Dacheng Tao. Class-Disentanglement and Applications in Adversarial Detection and Defense. ***NeurIPS***, *2021*. [[Pdf]](https://openreview.net/pdf?id=jFMzBeLyTc0) [[Appendix]](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Supplemental.pdf) [[Code]](https://github.com/kai-wen-yang/CD-VAE) [[Slides]](https://neurips.cc/media/neurips-2021/Slides/26667.pdf) </small>
 	
 <h2 id="award"> Award</h2> 
-
+* <small>National Scholarship (2022) </small>
 * <small>National 1st place in CUMCM (2017) </small>
 * <small>National Scholarship (2016) </small>
 
