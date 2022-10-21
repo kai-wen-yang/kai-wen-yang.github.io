@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>10/2022:</small> <small style="color:red">Awarded the National Scholarship for Doctoral Students (¥30000)</small> 
+* <small>10/2022:</small> <small style="color:red">Awarded the National Scholarship for Doctoral Students </small> 
 * <small>09/2022:</small> <small style="color:red">1 paper is accepted by NeurIPS 2022 </small> 
 * <small>05/2022:</small> <small style="color:red">1 paper is accepted by ICML 2022 </small> 
 * <small>09/2021:</small> <small style="color:red">1 paper is accepted by NeurIPS 2021 </small> 
@@ -50,8 +50,8 @@ h1, h2, h3, h4, h5, h6 {
   <small>University of Science and Technology of China<small>   
 * <small>**M.S.** 2019-2022 </small>  	
   <small>University of Science and Technology of China<small>   
-* <small>**B.E.** 2015-2019</small>  
-  <small>Xidian University</small> 
+* <small>**B.E.** 2015-2019 </small>  
+  <small>Xidian University<small> 
 
 
 <h2 id="publication">Selected Publication</h2> 
