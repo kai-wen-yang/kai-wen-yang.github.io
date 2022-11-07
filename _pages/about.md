@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>09/2021:</small> <small style="color:red">1 paper is accepted by NeurIPS 2021 </small> 
 <h2 id="biography"> Biography</h2>  
 
-<small> Hi, I am Kaiwen Yang, a master student in Department of Electronic Engineering and Information Science at USTC. I received my bachelor's degree from School of Electronic Engineering at Xidian University in 2019. My research interests are in representation learning, adversarial learning and semi/self-supervised learning.</small>
+<small> Hi, I am Kaiwen Yang, a Ph.D student in Department of Electronic Engineering and Information Science at USTC. I received my bachelor's degree from School of Electronic Engineering at Xidian University in 2019. My research interests are in representation learning, adversarial learning and semi/self-supervised learning.</small>
 
 <h2 id="education"> Education</h2> 
 * <small>**Ph.D.** 2022-present, University of Science and Technology of China </small>  	
